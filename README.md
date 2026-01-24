@@ -69,19 +69,20 @@ Fullstack developer with a strong interest in Machine Learning integration. Pass
 - **Technologies:** Flutter, Dart, SQLite, Shared Preferences
 - **Features:** Task management, goal definition, startup idea structuring
 - **Role:** Cross-platform mobile development, local storage implementation
-- **Status:** *In development - Repository coming soon*
+- **Status:** *Repository coming soon*
 
 ### **🏢 Invoice Management System** | *Java Desktop Application*
 **Automated billing software**
 - **Technologies:** Java, JavaFX, Scene Builder, PostgreSQL
 - **Features:** Invoice generation, storage, editing, interactive GUI
 - **Role:** Desktop application development, database design
-- **Status:** *In development - Repository coming soon*
+- **Status:** *Repository coming soon*
+- 
 ### **🔧 Intervention Management System** | *Spring Boot Web Application*
 **Technical intervention tracking system**
 - **Technologies:** Spring Boot, Spring Security, JPA, SQL Server
 - **Features:** Secure authentication, repair order management, role-based access
-- **Status:** *In development - Repository coming soon*
+- **Status:** * Repository coming soon*
 
 ---
 
