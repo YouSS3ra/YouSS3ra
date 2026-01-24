@@ -1,6 +1,6 @@
 <h1 align="center">👋 Youssra Hamidouche</h1>
 <h3 align="center">🚀 Ingenieur Développeur Fullstack & Machine Learning</h3>
-<p align="center">Élève-ingénieur à l'ENIAD Berkane | Passionnée par le développement complet et l'IA</p>
+<p align="center">Élève-ingénieur à l'ENIAD Berkane | Passionnée par le développement complet et l'IA</p> 
 
 <p align="center">
   <a href="mailto:youssrahamidouche@gmail.com" target="_blank">
