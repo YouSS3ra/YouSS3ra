@@ -1,96 +1,80 @@
-<!-- En-tête avec animation typing et badges glow -->
+> [!IMPORTANT]
+> **🚀 UPDATE JANVIER 2026 :** Refonte complète du moteur de portfolio et intégration de modèles de prédiction ML. 
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Youssra+Hamidouche;Ingénieur+Fullstack+%26+ML;Élève-ingénieur+ENIAD;Bienvenue+sur+mon+GitHub!" alt="Typing animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=200&section=header&text=Youssra%20Hamidouche&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%"/>
 </p>
 
-<!-- Boutons de contact avec effet glow -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Software+Engineer+Student;Fullstack+Expert+%7C+ML+Enthusiast;Building+Scalable+Solutions;ENIAD+Berkane+2026" alt="Typing animation" />
+</p>
+
 <p align="center">
   <a href="https://linkedin.com/in/youssra-hamidouche-213025248">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" style="box-shadow: 0 0 12px #0A66C2; border-radius: 6px;"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:youssrahamidouche@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" style="box-shadow: 0 0 12px #EA4335; border-radius: 6px;"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/YouSS3ra">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" style="box-shadow: 0 0 12px #333; border-radius: 6px;"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/CV-8A2BE2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=8A2BE2" alt="CV" style="box-shadow: 0 0 12px #8A2BE2; border-radius: 6px;"/>
+    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=react&logoColor=white" />
   </a>
 </p>
 
-<!-- Badges de compétences -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Fullstack-Expert-61DAFB?logo=react&logoColor=black" alt="Fullstack">
-  <img src="https://img.shields.io/badge/Machine_Learning-Advanced-FF6F61?logo=tensorflow&logoColor=white" alt="ML">
-  <img src="https://img.shields.io/badge/Java-Expert-ED8B00?logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Flutter-Proficient-02569B?logo=flutter&logoColor=white" alt="Flutter">
-</p>
+---
+
+## 🛰️ Diagnostic Système (About Me)
+
+Je suis une **élève-ingénieure (4A)** à l'**ENIAD Berkane**, spécialisée dans la fusion des architectures **Fullstack** et de l'**Intelligence Artificielle**. Ma philosophie : *Le code doit être robuste, l'IA doit être utile.*
+
+- 🔭 **Actuellement sur :** Optimisation de modèles de Computer Vision pour le web.
+- ⚡ **Impact :** Déjà automatisé des flux critiques avec un gain de **70% de productivité**.
+- 🔍 **Recherche :** Stage PFE (3 mois) à partir de Juin 2026.
 
 ---
 
-## 🎯 **Profil & Objectif**
+## 🛠️ Neural Matrix (Stack Technique)
 
-> **Élève-ingénieur en 4ème année à l'ENIAD Berkane** | **Recherche active d'un stage PFE (3 mois) à partir de Juin 2026**
+<div align="center">
 
-Passionnée par le **cycle de développement complet**, je combine expertise **Fullstack** et intérêt pour l'**intégration de solutions Machine Learning**. Je cherche à appliquer ma polyvalence technique sur des projets innovants en entreprise.
+| Intelligence (IA) | Architecture (Web) | Mobile & Desktop |
+| :--- | :--- | :--- |
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
+| ![Scikit](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | ![JavaFX](https://img.shields.io/badge/-JavaFX-ED8B00?style=flat-square&logo=java&logoColor=white) |
+| ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | ![Spring](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
 
----
-
-## 💼 **Expériences Professionnelles**
-
-### 🏢 **Solu Software Sarl** | *Stagiaire Développement Java* 
-**Mai 2024 – Juin 2024** | Tanger, Maroc
-- 🔧 **Conception & développement** d'une application Desktop (JavaFX) de gestion de factures
-- 🚀 **Résultat concret :** Automatisation de **70%** de la génération de factures
-- 🛠️ **Technologies :** Java, JavaFX, Scene Builder, PostgreSQL
-
-### 💧 **L'ONEP** | *Stage d'Initiation et d'Observation*
-**Juillet 2023 – Août 2023** | Taza, Maroc
-- 🌐 **Immersion** dans la direction informatique d'un grand organisme public
-- 🏗️ **Analyse** de l'architecture réseau et logicielle à grande échelle
-- 📊 **Compréhension** des enjeux IT dans le secteur public
+</div>
 
 ---
 
-## 🚀 **Projets Phares**
+## 🧪 Laboratoire de Projets (Glass Style)
 
-### **[🧠 MindfulTeam](https://github.com/YouSS3ra/MindfulTeam)** – *Application Fullstack MERN*
-**Gestion du bien-être en entreprise** | MongoDB, Express.js, React, Node.js
-- 📈 Suivi du moral des équipes & tableaux de bord analytiques
-- 💬 Système de feedback & analyse du climat social
+### 💠 [MindfulTeam](https://github.com/YouSS3ra/MindfulTeam)
+> **MERN Stack** | *IA & Bien-être*
+> Analyse du climat social en entreprise via des dashboards réactifs.
 
-### **[🏢 Gestion des Interventions](https://github.com/YouSS3ra/Gestion-Interventions)** – *Application Web Spring Boot*
-**Suivi technique & maintenance** | Spring Boot, Security, MVC, JPA, SQL Server
-- 🔐 Authentification sécurisée & gestion des rôles
-- 📋 Gestion des bons de réparation & suivi des interventions
+### 💠 [Repartou](https://github.com/YouSS3ra/Gestion-Interventions)
+> **Spring Boot & Security** | *Industrie 4.0*
+> Sécurisation totale des flux de maintenance et gestion des interventions critiques.
 
-### **[📱 Startup LaunchPad](https://github.com/YouSS3ra/Startup-LaunchPad)** – *Application Mobile*
-**Outil d'organisation pour entrepreneurs** | Flutter, SQLite, JSON
-- ✅ Gestion de tâches & définition d'objectifs SMART
-- 💡 Structuration d'idées de startups & suivi de progression
+### 💠 [Invoice Gen](https://github.com/YouSS3ra)
+> **JavaFX & PostgreSQL** | *Automation*
+> Solution déployée ayant réduit de **70%** le temps de gestion administrative.
 
 ---
 
-## 📊 **GitHub Analytics**
+## 📊 Performance Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YouSS3ra&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=30,0d0d0d,1a1a2e&title_color=7C3AED&icon_color=7C3AED" alt="Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YouSS3ra&layout=compact&theme=radical&hide_border=true&bg_color=30,1a1a2e,0d0d0d&title_color=7C3AED" alt="Top Langs"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YouSS3ra&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YouSS3ra&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=7C3AED" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YouSS3ra&theme=radical&hide_border=true&background=0d0d0d&stroke=7C3AED&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" alt="Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YouSS3ra&theme=dark&hide_border=true&background=0D1117&stroke=7C3AED&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" width="100%" />
 </p>
 
 ---
-
-## 🛠️ **Stack Technique**
-
-```text
-Fullstack:    React, Node.js, Express.js, Spring Boot, JavaFX
-Mobile:       Flutter, Android (Java)
-Bases de données: MongoDB, PostgreSQL, SQL Server, MySQL, SQLite
-IA/ML:        Python, Scikit-Learn, Pandas, NumPy, Analyse de données
-Outils:       Git, GitHub, Postman, Docker (initiation), VS Code
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=footer" width="100%"/>
+</p>
