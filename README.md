@@ -132,7 +132,7 @@ Fullstack developer with a strong interest in Machine Learning integration. Pass
 ## 📬 **Contact & Opportunities**
 
 <p align="center">
-  <strong>📍 Based in Taza, Morocco</strong><br/>
+  <strong>📍 Based in Morocco</strong><br/>
   <strong>🎓</strong> Actively seeking a <strong>3-month PFA internship (June-August 2026)</strong><br/>
   <strong>📧</strong> <a href="mailto:youssrahamidouche@gmail.com">youssrahamidouche@gmail.com</a>
 </p>
