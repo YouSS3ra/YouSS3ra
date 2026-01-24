@@ -62,22 +62,21 @@ Fullstack developer with a strong interest in Machine Learning integration. Pass
 - **Technologies:** MongoDB, Express.js, React, Node.js
 - **Features:** Team morale tracking, feedback tools, analytics dashboards
 - **Role:** Fullstack development, API integration, UI/UX implementation
-- [→ View Repository](https://github.com/YouSS3ra/MindfulTeam)
+- **Status:** *In development - Repository coming soon*
 
 ### **📱 Startup LaunchPad** | *Flutter Mobile Application*
 **Project organization tool for entrepreneurs**
 - **Technologies:** Flutter, Dart, SQLite, Shared Preferences
 - **Features:** Task management, goal definition, startup idea structuring
 - **Role:** Cross-platform mobile development, local storage implementation
-- [→ View Repository](https://github.com/YouSS3ra/Startup-LaunchPad)
+- **Status:** *In development - Repository coming soon*
 
 ### **🏢 Invoice Management System** | *Java Desktop Application*
 **Automated billing software**
 - **Technologies:** Java, JavaFX, Scene Builder, PostgreSQL
 - **Features:** Invoice generation, storage, editing, interactive GUI
 - **Role:** Desktop application development, database design
-- [→ View Repository](https://github.com/YouSS3ra/Gestion-Factures)
-
+- **Status:** *In development - Repository coming soon*
 ### **🔧 Intervention Management System** | *Spring Boot Web Application*
 **Technical intervention tracking system**
 - **Technologies:** Spring Boot, Spring Security, JPA, SQL Server
