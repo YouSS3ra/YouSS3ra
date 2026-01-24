@@ -1,80 +1,117 @@
-> [!IMPORTANT]
-> **🚀 UPDATE JANVIER 2026 :** Refonte complète du moteur de portfolio et intégration de modèles de prédiction ML. 
+<h1 align="center">👋 Youssra Hamidouche</h1>
+<h3 align="center">🚀 Ingenieur Développeur Fullstack & Machine Learning</h3>
+<p align="center">Élève-ingénieur à l'ENIAD Berkane | Passionnée par le développement complet et l'IA</p> 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=200&section=header&text=Youssra%20Hamidouche&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Software+Engineer+Student;Fullstack+Expert+%7C+ML+Enthusiast;Building+Scalable+Solutions;ENIAD+Berkane+2026" alt="Typing animation" />
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/youssra-hamidouche-213025248">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="mailto:youssrahamidouche@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="mailto:youssrahamidouche@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://linkedin.com/in/youssra-hamidouche-213025248" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/YouSS3ra">
-    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=react&logoColor=white" />
+  <a href="https://github.com/YouSS3ra" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 ---
 
-## 🛰️ Diagnostic Système (About Me)
+## 🎯 **Profil**
 
-Je suis une **élève-ingénieure (4A)** à l'**ENIAD Berkane**, spécialisée dans la fusion des architectures **Fullstack** et de l'**Intelligence Artificielle**. Ma philosophie : *Le code doit être robuste, l'IA doit être utile.*
+Élève-ingénieur en 4ème année à l'**ENIAD Berkane**, je recherche un stage de **Projet de Fin d'Année (PFA) de 3 mois** à partir de **Juin 2026**. Passionnée par le cycle de développement complet, je me spécialise dans le **développement Fullstack** et l'**intégration de solutions Machine Learning**. Mon objectif : mettre ma polyvalence technique au service de projets innovants.
 
-- 🔭 **Actuellement sur :** Optimisation de modèles de Computer Vision pour le web.
-- ⚡ **Impact :** Déjà automatisé des flux critiques avec un gain de **70% de productivité**.
-- 🔍 **Recherche :** Stage PFE (3 mois) à partir de Juin 2026.
+## 🛠️ **Stack Technique**
 
----
+### **Langages de programmation**
+`C` `C++` `Python` `Java` `JavaScript` `PHP` `SQL` `C#`
 
-## 🛠️ Neural Matrix (Stack Technique)
+### **Frameworks & Bibliothèques**
+`React` `Node.js` `Express.js` `Flutter` `Spring Boot` `Spring MVC` `JavaFX`
 
-<div align="center">
+### **Intelligence Artificielle & Data**
+`Machine Learning (ML)` `Scikit-Learn` `Pandas` `NumPy` `Analyse de données`
 
-| Intelligence (IA) | Architecture (Web) | Mobile & Desktop |
-| :--- | :--- | :--- |
-| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
-| ![Scikit](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | ![JavaFX](https://img.shields.io/badge/-JavaFX-ED8B00?style=flat-square&logo=java&logoColor=white) |
-| ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | ![Spring](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
+### **Bases de données**
+`MongoDB` `PostgreSQL` `SQL Server` `SQLite` `MySQL`
 
-</div>
+### **Outils & Technologies**
+`Git` `GitHub` `Postman` `Scene Builder` `JSON` `JPA/Hibernate`
 
----
-
-## 🧪 Laboratoire de Projets (Glass Style)
-
-### 💠 [MindfulTeam](https://github.com/YouSS3ra/MindfulTeam)
-> **MERN Stack** | *IA & Bien-être*
-> Analyse du climat social en entreprise via des dashboards réactifs.
-
-### 💠 [Repartou](https://github.com/YouSS3ra/Gestion-Interventions)
-> **Spring Boot & Security** | *Industrie 4.0*
-> Sécurisation totale des flux de maintenance et gestion des interventions critiques.
-
-### 💠 [Invoice Gen](https://github.com/YouSS3ra)
-> **JavaFX & PostgreSQL** | *Automation*
-> Solution déployée ayant réduit de **70%** le temps de gestion administrative.
+### **Développement Mobile**
+`Flutter (Cross-platform)` `Développement natif Android (Java/Android Studio)` `Gestion d'état` `Persistance locale`
 
 ---
 
-## 📊 Performance Analytics
+## 🚀 **Projets Académiques**
+
+### **[🧠 MindfulTeam](https://github.com/YouSS3ra/MindfulTeam)** – *Application Fullstack (MERN Stack)*
+**Gestion du bien-être des salariés en entreprise**
+- Suivi du moral des équipes, outils de feedback, tableaux d'analyse du climat social
+- **Technologies :** MongoDB, Express.js, React, Node.js
+
+### **🏢 Gestion des Interventions** – *Application Web*
+**Suivi des interventions techniques et gestion des bons de réparation**
+- Gestion des bons, suivi des interventions, authentification sécurisée
+- **Technologies :** Spring Boot, Spring Security, Spring MVC, JPA, SQL Server
+
+### **[📱 Startup LaunchPad](https://github.com/YouSS3ra/Startup-LaunchPad)** – *Application Mobile*
+**Outil d'organisation pour porteurs de projets et équipes d'innovation**
+- Gestion des tâches, définition d'objectifs, structuration d'idées de startups
+- **Technologies :** Flutter, SQLite, JSON, Shared Preferences
+
+### **[🧾 Gestion des Factures](https://github.com/YouSS3ra/Gestion-Factures)** – *Application Desktop*
+**Logiciel de facturation automatisé**
+- Création, stockage et édition de factures avec interface graphique interactive
+- **Technologies :** Java, JavaFX, Scene Builder, PostgreSQL
+
+---
+
+## 📊 **GitHub Analytics**
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YouSS3ra&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YouSS3ra&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=7C3AED" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YouSS3ra&show_icons=true&theme=nightowl&hide_border=true&count_private=true" alt="Statistiques GitHub"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YouSS3ra&layout=compact&theme=nightowl&hide_border=true" alt="Langages les plus utilisés"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YouSS3ra&theme=dark&hide_border=true&background=0D1117&stroke=7C3AED&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YouSS3ra&theme=nightowl&hide_border=true" alt="Streak"/>
 </p>
 
 ---
+
+## 🌟 **Soft Skills**
+- **Travail d'équipe et collaboration** – Esprit d'analyse et de synthèse
+- **Adaptabilité technique** – Communication professionnelle efficace
+- **Autonomie et rigueur** – Gestion de projet
+
+## 🌍 **Langues**
+- **Arabe :** Natif
+- **Français :** Courant
+- **Anglais :** Technique
+
+---
+
+## 📫 **Contact**
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=footer" width="100%"/>
+  <strong>📍 Taza, Maroc</strong><br/>
+  <strong>📧</strong> youssrahamidouche@gmail.com<br/>
+  <strong>🔗</strong> <a href="https://linkedin.com/in/youssra-hamidouche-213025248">LinkedIn</a> | <a href="https://github.com/YouSS3ra">GitHub</a>
 </p>
+
+---
+
+```python
+class Youssra:
+    def __init__(self):
+        self.formation = "Élève-ingénieur à l'ENIAD Berkane"
+        self.specialites = ["Développement Fullstack", "Machine Learning"]
+        self.recherche = "Stage PFA (3 mois) à partir de Juin 2026"
+        self.objectif = "Contribuer à des projets innovants avec une approche technique polyvalente"
+    
+    def get_contact(self):
+        return {
+            "email": "youssrahamidouche@gmail.com",
+            "linkedin": "linkedin.com/in/youssra-hamidouche-213025248",
+            "github": "github.com/YouSS3ra"
+        }
