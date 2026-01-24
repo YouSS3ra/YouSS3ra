@@ -4,13 +4,13 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/youssra-hamidouche-213025248" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
   </a>
   <a href="mailto:youssrahamidouche@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/>
   </a>
   <a href="https://github.com/YouSS3ra" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
   </a>
 </p>
 
@@ -27,31 +27,31 @@ Fullstack developer with a strong interest in Machine Learning integration. Pass
 ## 🛠️ **Tech Stack**
 
 ### **Frontend & Mobile**
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-white?style=for-the-badge&logo=flutter&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=black)
 
 ### **Backend & Databases**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=nodedotjs&logoColor=black)
+![Express.js](https://img.shields.io/badge/Express.js-white?style=for-the-badge&logo=express&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-white?style=for-the-badge&logo=springboot&logoColor=black)
+![Java](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=openjdk&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql&logoColor=black)
 
 ### **Data Science & AI**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-white?style=for-the-badge&logo=scikit-learn&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-white?style=for-the-badge&logo=pandas&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-white?style=for-the-badge&logo=numpy&logoColor=black)
 
 ### **Tools & DevOps**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-white?style=for-the-badge&logo=postman&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-white?style=for-the-badge&logo=visualstudiocode&logoColor=black)
 
 ---
 
@@ -137,14 +137,10 @@ Fullstack developer with a strong interest in Machine Learning integration. Pass
   <strong>📧</strong> <a href="mailto:youssrahamidouche@gmail.com">youssrahamidouche@gmail.com</a>
 </p>
 
-<p align="center">
-  <i>Interested in Fullstack development roles with opportunities for ML integration and technical challenges.</i>
-</p>
-
 <div align="center">
   
   <a href="https://github.com/YouSS3ra?tab=repositories">
-    <img src="https://img.shields.io/badge/📂_Explore_My_Projects-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects"/>
+    <img src="https://img.shields.io/badge/EXPLORE_PROJECTS-000000?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects"/>
   </a>
   
   <br/><br/>
