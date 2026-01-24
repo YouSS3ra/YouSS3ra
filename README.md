@@ -108,7 +108,7 @@
 <p align="center">
   <strong>📍 Taza, Maroc</strong><br/>
   <strong>📧</strong> youssrahamidouche@gmail.com<br/>
-  <strong>📱</strong> +212 636 345 695<br/>
+
   <strong>🔗</strong> <a href="https://linkedin.com/in/youssra-hamidouche-213025248">LinkedIn</a> | <a href="https://github.com/YouSS3ra">GitHub</a>
 </p>
 
