@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Youssra+Hamidouche;Fullstack+%26+ML+Engineer;Open+to+PFE+Internship+2026" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Youssra+Hamidouche;Fullstack+%26+ML+Engineer;Open+to+PFA+Internship+2026" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ## 👩‍💻 **About Me**
 
-> **ENIAD Berkane Computer Engineering Student** | **Seeking 3-month PFE internship starting June 2026**
+> **ENIAD Berkane Computer Engineering Student** | **Seeking 3-month PFA internship starting June 2026**
 
 Fullstack developer passionate about building complete solutions and integrating Machine Learning capabilities. My goal is to leverage technical versatility to solve real-world problems through clean, efficient code.
 
@@ -112,10 +112,11 @@ Databases             │  MongoDB, PostgreSQL, MySQL, SQLite
 Tools & DevOps        │  Git, Docker, Postman, VS Code
 Soft Skills           │  Team Collaboration, Problem-solving, Agile Methodologies
 
+
+</div> ```
 📬 Get In Touch
 <p align="center"> <strong>📍 Based in Taza, Morocco</strong><br/> <strong>🎓</strong> Seeking <strong>PFE internship (Jun-Aug 2026)</strong><br/> <strong>📧</strong> youssrahamidouche@gmail.com<br/> <strong>📱</strong> +212 636 345 695 </p><p align="center"> <i>Open to internship opportunities, technical discussions, and collaborative projects!</i> </p><div align="center">
 
 https://komarev.com/ghpvc/?username=YouSS3ra&color=7C3AED&style=flat-square
 
 ⭐ Feel free to explore my repositories and connect! ⭐
-</div> ```
