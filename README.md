@@ -18,7 +18,7 @@
 
 ## 👩‍💻 **About Me**
 
-> **ENIAD Berkane Computer Engineering Student** | **Seeking 3-month PFA internship starting June 2026**
+> **ENIAD Berkane Computer Engineering Student**
 
 Fullstack developer with a strong interest in Machine Learning integration. Passionate about building complete, efficient solutions and tackling complex technical challenges. Currently looking to apply my skills in a professional environment through a meaningful internship.
 
