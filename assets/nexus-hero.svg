@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="t d">
+<title id="t">NEXUS — Youssra Hamidouche</title><desc id="d">A technical identity panel connecting software engineering and artificial intelligence.</desc>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#081321"/><stop offset=".58" stop-color="#10223a"/><stop offset="1" stop-color="#1a1733"/></linearGradient>
+ <linearGradient id="a"><stop stop-color="#42d4ed"/><stop offset="1" stop-color="#9b83ff"/></linearGradient>
+ <pattern id="g" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#9cb4d0" stroke-opacity=".10"/></pattern>
+ <radialGradient id="h"><stop stop-color="#4e74d9" stop-opacity=".25"/><stop offset="1" stop-color="#4e74d9" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="430" rx="24" fill="url(#bg)"/><rect width="1200" height="430" rx="24" fill="url(#g)"/><circle cx="930" cy="215" r="330" fill="url(#h)"/>
+<rect x="24" y="24" width="1152" height="382" rx="18" fill="none" stroke="#8ca8c8" stroke-opacity=".28"/>
+<g font-family="Inter,Segoe UI,Arial,sans-serif">
+ <text x="72" y="88" fill="#58d7ef" font-size="14" font-weight="700" letter-spacing="5">NEXUS  /  ENGINEERING LAB</text>
+ <text x="68" y="176" fill="#f4f7fc" font-size="58" font-weight="700">Youssra Hamidouche</text>
+ <text x="72" y="222" fill="#c5d3e5" font-size="23">Software Engineering  ×  Artificial Intelligence</text>
+ <path d="M72 258H455" stroke="url(#a)" stroke-width="3" stroke-linecap="round"/>
+ <text x="72" y="304" fill="#a9bbd1" font-size="15" letter-spacing="2">DESIGN SYSTEMS  ·  EXPLORE INTELLIGENCE  ·  BUILD WITH PURPOSE</text>
+ <text x="72" y="352" fill="#7189a8" font-size="13" letter-spacing="2">COMPUTER ENGINEERING STUDENT  /  MOROCCO</text>
+</g>
+<g fill="none" stroke="url(#a)" stroke-width="1.6" stroke-opacity=".85">
+ <path d="M690 110H820L885 175H1030L1100 105M690 310H790L850 250H990L1060 320H1130"/>
+ <path d="M820 110V310M885 175V250M1030 175L1060 320M990 250L1100 105"/>
+ <path d="M690 110L690 310M1130 105V320" stroke-opacity=".28" stroke-dasharray="4 7"/>
+</g>
+<g fill="#0b192b" stroke="url(#a)" stroke-width="2">
+ <rect x="674" y="94" width="32" height="32" rx="8"/><rect x="804" y="94" width="32" height="32" rx="8"/>
+ <rect x="869" y="159" width="32" height="32" rx="8"/><rect x="1014" y="159" width="32" height="32" rx="8"/>
+ <rect x="1084" y="89" width="32" height="32" rx="8"/><rect x="674" y="294" width="32" height="32" rx="8"/>
+ <rect x="774" y="294" width="32" height="32" rx="8"/><rect x="834" y="234" width="32" height="32" rx="8"/>
+ <rect x="974" y="234" width="32" height="32" rx="8"/><rect x="1044" y="304" width="32" height="32" rx="8"/>
+ <rect x="1114" y="304" width="32" height="32" rx="8"/>
+</g>
+<g font-family="ui-monospace,Consolas,monospace" font-size="10" fill="#9db4cf" letter-spacing="1.5">
+ <text x="672" y="78">01 / DESIGN</text><text x="925" y="143">02 / CONNECT</text><text x="1030" y="366">03 / BUILD</text>
+</g>
+<circle cx="885" cy="175" r="4" fill="#55d9ef"/><circle cx="990" cy="250" r="4" fill="#a58cff"/>
+</svg>
