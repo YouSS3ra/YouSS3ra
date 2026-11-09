@@ -2,7 +2,7 @@
 <title id="t">Current coordinates and exploration map</title><desc id="d">Current learning areas are separated from topics the author is curious to explore.</desc>
 <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1829"/><stop offset="1" stop-color="#17182f"/></linearGradient><linearGradient id="cyan"><stop stop-color="#37cce8"/><stop offset="1" stop-color="#4f9be9"/></linearGradient><linearGradient id="violet"><stop stop-color="#8b75ff"/><stop offset="1" stop-color="#bd83f5"/></linearGradient><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#9ab1cd" stroke-opacity=".07"/></pattern></defs>
 <rect width="1200" height="430" rx="20" fill="url(#bg)"/><rect width="1200" height="430" rx="20" fill="url(#grid)"/>
-<g font-family="Inter,Segoe UI,Arial,sans-serif"><text x="54" y="62" fill="#59d5ec" font-size="13" font-weight="700" letter-spacing="4">05  /  CURRENT COORDINATES</text><text x="54" y="99" fill="#dbe7f5" font-size="19">Learning is a process. Curiosity is part of the roadmap.</text></g>
+<g font-family="Inter,Segoe UI,Arial,sans-serif"><text x="54" y="62" fill="#59d5ec" font-size="13" font-weight="700" letter-spacing="4">05  /  CURRENT COORDINATES</text><text x="54" y="99" fill="#dbe7f5" font-size="19">Areas I am strengthening and topics I want to explore.</text></g>
 <rect x="48" y="132" width="690" height="230" rx="15" fill="#10253a" stroke="#3bc8e6" stroke-opacity=".8"/>
 <rect x="762" y="132" width="390" height="230" rx="15" fill="#201b3c" stroke="#9b83ff" stroke-opacity=".8"/>
 <g font-family="Inter,Segoe UI,Arial,sans-serif">
@@ -15,5 +15,5 @@
  <path d="M794 316H1108" stroke="url(#violet)" stroke-width="2"/>
  <text x="794" y="341" fill="#a89ac9" font-size="11" letter-spacing="1">INTERESTS TO EXPLORE — NOT CLAIMED EXPERTISE</text>
 </g>
-<text x="600" y="400" fill="#8198b4" font-family="ui-monospace,Consolas,monospace" font-size="11" text-anchor="middle" letter-spacing="2">STAY CURIOUS  /  KEEP BUILDING  /  LEARN IN PUBLIC</text>
+<text x="600" y="400" fill="#8198b4" font-family="ui-monospace,Consolas,monospace" font-size="11" text-anchor="middle" letter-spacing="2">CONTINUOUS LEARNING  /  PRACTICAL ENGINEERING</text>
 </svg>
