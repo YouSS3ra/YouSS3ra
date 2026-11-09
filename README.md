@@ -106,12 +106,15 @@ flowchart LR
     ML --> API
 ```
 
-## On my learning radar
+## Exploring & Looking Ahead
 
+**Currently deepening my understanding of**
 - Software architecture, design principles and maintainability
 - Scalable backend systems and distributed-systems fundamentals
 - Cloud infrastructure and containerized applications
-- Generative AI and practical AI-powered features
+
+**Areas I'm curious to discover**
+- Generative AI and the engineering behind AI-powered applications
 
 ---
 
