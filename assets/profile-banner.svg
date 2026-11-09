@@ -1,40 +1,60 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-  <title id="title">Youssra Hamidouche — Engineering meets Intelligence</title>
-  <desc id="desc">A dark abstract network diagram representing software engineering and artificial intelligence.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+  <title id="title">Youssra Hamidouche | NEXUS Engineering Lab</title>
+  <desc id="desc">A unified dark technical blueprint with connected software components and intelligent systems.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0b1020"/>
-      <stop offset="0.55" stop-color="#111a32"/>
-      <stop offset="1" stop-color="#17102b"/>
+      <stop offset="0" stop-color="#081321"/>
+      <stop offset=".58" stop-color="#101d32"/>
+      <stop offset="1" stop-color="#17152e"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#38bdf8"/>
-      <stop offset="1" stop-color="#a78bfa"/>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#35c7e8"/>
+      <stop offset="1" stop-color="#9478ff"/>
     </linearGradient>
-    <radialGradient id="glow">
-      <stop offset="0" stop-color="#7c3aed" stop-opacity=".25"/>
-      <stop offset="1" stop-color="#7c3aed" stop-opacity="0"/>
+    <radialGradient id="halo">
+      <stop offset="0" stop-color="#536dff" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#536dff" stop-opacity="0"/>
     </radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#9db3cc" stroke-opacity=".09" stroke-width="1"/>
+    </pattern>
   </defs>
-  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
-  <circle cx="1030" cy="115" r="250" fill="url(#glow)"/>
-  <g stroke="#64748b" stroke-opacity=".32" stroke-width="1.5" fill="none">
-    <path d="M760 64 L890 120 L1030 70 L1130 145 L1000 235 L850 210 L760 285"/>
-    <path d="M890 120 L850 210 L1000 235 L1130 145"/>
-    <path d="M1030 70 L1000 235"/>
-    <path d="M760 64 L850 210"/>
-  </g>
-  <g fill="#0f172a" stroke="url(#accent)" stroke-width="2">
-    <circle cx="760" cy="64" r="8"/><circle cx="890" cy="120" r="10"/>
-    <circle cx="1030" cy="70" r="8"/><circle cx="1130" cy="145" r="10"/>
-    <circle cx="1000" cy="235" r="12"/><circle cx="850" cy="210" r="9"/>
-    <circle cx="760" cy="285" r="8"/>
-  </g>
+  <rect width="1200" height="390" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="390" rx="22" fill="url(#grid)"/>
+  <circle cx="960" cy="184" r="280" fill="url(#halo)"/>
+  <rect x="42" y="38" width="1116" height="314" rx="15" fill="none" stroke="#8ba5c4" stroke-opacity=".22"/>
   <g font-family="Inter,Segoe UI,Arial,sans-serif">
-    <text x="76" y="105" fill="#93c5fd" font-size="16" font-weight="600" letter-spacing="4">SOFTWARE ENGINEERING  ×  AI</text>
-    <text x="72" y="174" fill="#f8fafc" font-size="52" font-weight="700">Youssra Hamidouche</text>
-    <text x="76" y="220" fill="#cbd5e1" font-size="21">Designing systems. Building useful intelligence.</text>
-    <rect x="76" y="263" width="220" height="3" rx="2" fill="url(#accent)"/>
-    <text x="76" y="302" fill="#94a3b8" font-size="14" letter-spacing="2">COMPUTER ENGINEERING · MOROCCO</text>
+    <text x="82" y="92" fill="#58d5ee" font-size="13" font-weight="700" letter-spacing="4">NEXUS / ENGINEERING LAB</text>
+    <text x="78" y="165" fill="#f3f7ff" font-size="52" font-weight="700">Youssra Hamidouche</text>
+    <text x="82" y="207" fill="#c1d0e2" font-size="21">Software Engineering  ×  Artificial Intelligence</text>
+    <path d="M82 244H440" stroke="url(#line)" stroke-width="3" stroke-linecap="round"/>
+    <text x="82" y="283" fill="#9fb1c7" font-size="14" letter-spacing="2">DESIGN SYSTEMS · EXPLORE INTELLIGENCE · BUILD WITH PURPOSE</text>
+    <text x="82" y="319" fill="#6f88a7" font-size="11" letter-spacing="2">COMPUTER ENGINEERING / MOROCCO / 2027</text>
   </g>
+  <g fill="none" stroke="url(#line)" stroke-width="1.5" stroke-opacity=".8">
+    <path d="M650 108H790L850 168H1008L1080 96"/>
+    <path d="M650 276H760L825 211H960L1032 282H1110"/>
+    <path d="M790 108V276M850 168V211M1008 168L1032 282"/>
+    <path d="M960 211L1080 96"/>
+  </g>
+  <g fill="#0b1728" stroke="url(#line)" stroke-width="2">
+    <rect x="634" y="91" width="32" height="32" rx="7"/>
+    <rect x="774" y="92" width="32" height="32" rx="7"/>
+    <rect x="834" y="152" width="32" height="32" rx="7"/>
+    <rect x="992" y="152" width="32" height="32" rx="7"/>
+    <rect x="1064" y="80" width="32" height="32" rx="7"/>
+    <rect x="634" y="260" width="32" height="32" rx="7"/>
+    <rect x="744" y="260" width="32" height="32" rx="7"/>
+    <rect x="809" y="195" width="32" height="32" rx="7"/>
+    <rect x="944" y="195" width="32" height="32" rx="7"/>
+    <rect x="1016" y="266" width="32" height="32" rx="7"/>
+    <rect x="1094" y="266" width="32" height="32" rx="7"/>
+  </g>
+  <g font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="10" fill="#a8bdd5" letter-spacing="1">
+    <text x="628" y="72">01 / DESIGN</text>
+    <text x="890" y="139">02 / CONNECT</text>
+    <text x="1014" y="329">03 / BUILD</text>
+  </g>
+  <circle cx="850" cy="168" r="4" fill="#55d6ed"/>
+  <circle cx="960" cy="211" r="4" fill="#a28aff"/>
 </svg>
