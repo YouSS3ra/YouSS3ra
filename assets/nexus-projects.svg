@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="t d">
+<title id="t">Selected build — Startup LaunchPad</title><desc id="d">A mobile application for organizing startup ideas, tracking execution through Kanban, and viewing roadmap analytics, built with Flutter, Dart and SQLite.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1829"/><stop offset="1" stop-color="#17182f"/></linearGradient><linearGradient id="edge"><stop stop-color="#37cce8"/><stop offset="1" stop-color="#947cff"/></linearGradient><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#9ab1cd" stroke-opacity=".07"/></pattern></defs>
+<rect width="1200" height="360" rx="20" fill="url(#bg)"/><rect width="1200" height="360" rx="20" fill="url(#grid)"/>
+<g font-family="Inter,Segoe UI,Arial,sans-serif">
+<text x="54" y="58" fill="#59d5ec" font-size="13" font-weight="700" letter-spacing="4">05 / SELECTED PUBLIC BUILD</text>
+<text x="54" y="119" fill="#f0f5fc" font-size="34" font-weight="700">Startup LaunchPad</text>
+<text x="54" y="155" fill="#b9cadd" font-size="17">An offline-first workspace to turn ideas into structured action.</text>
+<path d="M54 184H690" stroke="url(#edge)" stroke-width="2"/>
+<text x="54" y="222" fill="#58d5ed" font-size="12" font-weight="700" letter-spacing="2">PRODUCT CAPABILITIES</text>
+<text x="54" y="254" fill="#e1ebf7" font-size="16">Idea organization  ·  Kanban workflow  ·  Roadmap &amp; analytics</text>
+<text x="54" y="305" fill="#91a8c1" font-size="13">FLUTTER  /  DART  /  SQLITE</text>
+</g>
+<g transform="translate(820 48)">
+ <rect x="0" y="0" width="300" height="264" rx="22" fill="#0a1423" stroke="#7188a9" stroke-opacity=".6" stroke-width="2"/>
+ <rect x="13" y="14" width="274" height="236" rx="13" fill="#102238"/>
+ <text x="32" y="46" fill="#dceafa" font-family="Inter,Arial,sans-serif" font-size="14" font-weight="700">PROJECT BOARD</text>
+ <g font-family="Inter,Arial,sans-serif" font-size="10" fill="#9db3ca">
+  <rect x="28" y="62" width="74" height="142" rx="7" fill="#172f47"/><rect x="112" y="62" width="74" height="142" rx="7" fill="#1d2946"/><rect x="196" y="62" width="74" height="142" rx="7" fill="#202344"/>
+  <text x="37" y="79">BACKLOG</text><text x="120" y="79">ACTIVE</text><text x="204" y="79">DONE</text>
+ </g>
+ <g fill="#254a64" stroke="#48cce6" stroke-opacity=".6"><rect x="35" y="91" width="60" height="34" rx="4"/><rect x="35" y="133" width="60" height="34" rx="4"/><rect x="119" y="91" width="60" height="48" rx="4"/><rect x="203" y="91" width="60" height="34" rx="4"/></g>
+ <g fill="#a7bfd5"><path d="M43 102h42M43 111h31M43 144h42M43 153h25M127 104h42M127 114h30M127 124h38M211 102h42M211 111h28" stroke="#a7bfd5" stroke-width="2" stroke-linecap="round"/><circle cx="238" cy="174" r="13" fill="none" stroke="#9b83ff" stroke-width="3"/><path d="M238 161a13 13 0 0 1 12 8" fill="none" stroke="#51d2e9" stroke-width="3" stroke-linecap="round"/></g>
+ <rect x="125" y="255" width="50" height="4" rx="2" fill="#8ea4bc"/>
+</g>
+</svg>
