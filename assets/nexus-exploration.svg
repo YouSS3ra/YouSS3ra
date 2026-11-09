@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="t d">
+<title id="t">Current coordinates and exploration map</title><desc id="d">Current learning areas are separated from topics the author is curious to explore.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1829"/><stop offset="1" stop-color="#17182f"/></linearGradient><linearGradient id="cyan"><stop stop-color="#37cce8"/><stop offset="1" stop-color="#4f9be9"/></linearGradient><linearGradient id="violet"><stop stop-color="#8b75ff"/><stop offset="1" stop-color="#bd83f5"/></linearGradient><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#9ab1cd" stroke-opacity=".07"/></pattern></defs>
+<rect width="1200" height="430" rx="20" fill="url(#bg)"/><rect width="1200" height="430" rx="20" fill="url(#grid)"/>
+<g font-family="Inter,Segoe UI,Arial,sans-serif"><text x="54" y="62" fill="#59d5ec" font-size="13" font-weight="700" letter-spacing="4">04  /  CURRENT COORDINATES</text><text x="54" y="99" fill="#dbe7f5" font-size="19">Learning is a process. Curiosity is part of the roadmap.</text></g>
+<rect x="48" y="132" width="690" height="230" rx="15" fill="#10253a" stroke="#3bc8e6" stroke-opacity=".8"/>
+<rect x="762" y="132" width="390" height="230" rx="15" fill="#201b3c" stroke="#9b83ff" stroke-opacity=".8"/>
+<g font-family="Inter,Segoe UI,Arial,sans-serif">
+ <text x="80" y="177" fill="#55d5ed" font-size="13" font-weight="700" letter-spacing="2">DEEPENING MY UNDERSTANDING</text>
+ <g fill="#e4effa" font-size="17"><text x="88" y="220">↳ Software architecture &amp; design principles</text><text x="88" y="257">↳ Backend engineering &amp; maintainability</text><text x="88" y="294">↳ Distributed systems fundamentals</text><text x="88" y="331">↳ Cloud &amp; containerized applications</text></g>
+ <text x="794" y="177" fill="#b19aff" font-size="13" font-weight="700" letter-spacing="2">CURIOUS TO DISCOVER</text>
+ <text x="794" y="226" fill="#f4efff" font-size="23" font-weight="700">Generative AI</text>
+ <text x="794" y="260" fill="#d0c6e7" font-size="15">LLM-powered applications</text>
+ <text x="794" y="288" fill="#d0c6e7" font-size="15">AI agents · RAG</text>
+ <path d="M794 316H1108" stroke="url(#violet)" stroke-width="2"/>
+ <text x="794" y="341" fill="#a89ac9" font-size="11" letter-spacing="1">INTERESTS TO EXPLORE — NOT CLAIMED EXPERTISE</text>
+</g>
+<text x="600" y="400" fill="#8198b4" font-family="ui-monospace,Consolas,monospace" font-size="11" text-anchor="middle" letter-spacing="2">STAY CURIOUS  /  KEEP BUILDING  /  LEARN IN PUBLIC</text>
+</svg>
