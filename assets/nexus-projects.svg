@@ -3,7 +3,7 @@
 <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1829"/><stop offset="1" stop-color="#17182f"/></linearGradient><linearGradient id="edge"><stop stop-color="#37cce8"/><stop offset="1" stop-color="#947cff"/></linearGradient><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#9ab1cd" stroke-opacity=".07"/></pattern></defs>
 <rect width="1200" height="360" rx="20" fill="url(#bg)"/><rect width="1200" height="360" rx="20" fill="url(#grid)"/>
 <g font-family="Inter,Segoe UI,Arial,sans-serif">
-<text x="54" y="58" fill="#59d5ec" font-size="13" font-weight="700" letter-spacing="4">05 / SELECTED PUBLIC BUILD</text>
+<text x="54" y="58" fill="#59d5ec" font-size="13" font-weight="700" letter-spacing="4">04 / SELECTED PUBLIC BUILD</text>
 <text x="54" y="119" fill="#f0f5fc" font-size="34" font-weight="700">Startup LaunchPad</text>
 <text x="54" y="155" fill="#b9cadd" font-size="17">An offline-first workspace to turn ideas into structured action.</text>
 <path d="M54 184H690" stroke="url(#edge)" stroke-width="2"/>
