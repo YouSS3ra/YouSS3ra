@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="510" viewBox="0 0 1200 510" role="img" aria-labelledby="t d">
+<title id="t">Two connected engineering domains</title><desc id="d">Software engineering and artificial intelligence shown as connected domains within one engineering practice.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1829"/><stop offset="1" stop-color="#17182f"/></linearGradient><linearGradient id="cyan"><stop stop-color="#37cce8"/><stop offset="1" stop-color="#4f9be9"/></linearGradient><linearGradient id="violet"><stop stop-color="#8b75ff"/><stop offset="1" stop-color="#bd83f5"/></linearGradient><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#9ab1cd" stroke-opacity=".07"/></pattern></defs>
+<rect width="1200" height="510" rx="20" fill="url(#bg)"/><rect width="1200" height="510" rx="20" fill="url(#grid)"/>
+<g font-family="Inter,Segoe UI,Arial,sans-serif"><text x="54" y="62" fill="#59d5ec" font-size="13" font-weight="700" letter-spacing="4">02  /  CONNECTED DOMAINS</text><text x="54" y="99" fill="#dbe7f5" font-size="19">One engineering mindset — two complementary fields.</text></g>
+<rect x="48" y="132" width="524" height="316" rx="16" fill="#10253a" stroke="#3bc8e6" stroke-opacity=".8"/>
+<rect x="628" y="132" width="524" height="316" rx="16" fill="#201b3c" stroke="#9b83ff" stroke-opacity=".8"/>
+<g font-family="Inter,Segoe UI,Arial,sans-serif">
+ <text x="82" y="180" fill="#55d5ed" font-size="13" font-weight="700" letter-spacing="2">01 — SOFTWARE ENGINEERING</text>
+ <text x="82" y="222" fill="#f1f6fc" font-size="27" font-weight="700">Build dependable systems.</text>
+ <text x="82" y="258" fill="#b8cadd" font-size="16">From problem understanding to maintainable applications.</text>
+ <g fill="#d7e8f5" font-size="16"><text x="94" y="315">↳ Backend development &amp; REST APIs</text><text x="94" y="350">↳ Object-oriented design &amp; architecture</text><text x="94" y="385">↳ Data modelling &amp; persistence</text><text x="94" y="420">↳ Full-stack application development</text></g>
+ <text x="662" y="180" fill="#b19aff" font-size="13" font-weight="700" letter-spacing="2">02 — ARTIFICIAL INTELLIGENCE</text>
+ <text x="662" y="222" fill="#f5f1ff" font-size="27" font-weight="700">Make data useful.</text>
+ <text x="662" y="258" fill="#c9c0df" font-size="16">Learning how data-driven methods can support real needs.</text>
+ <g fill="#e4dcf7" font-size="16"><text x="674" y="315">↳ Machine learning &amp; deep learning</text><text x="674" y="350">↳ Data preparation and analysis</text><text x="674" y="385">↳ Model development with Python</text><text x="674" y="420">↳ AI capabilities within software</text></g>
+</g>
+<path d="M572 290H628" stroke="#91a7c6" stroke-width="2" stroke-dasharray="5 5"/><circle cx="600" cy="290" r="9" fill="#101c30" stroke="#8e9fd2" stroke-width="2"/>
+<text x="600" y="481" fill="#7f96b2" font-family="ui-monospace,Consolas,monospace" font-size="11" text-anchor="middle" letter-spacing="2">ENGINEERING FOUNDATION  /  PRACTICAL INTELLIGENCE</text>
+</svg>
