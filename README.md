@@ -10,9 +10,6 @@
   <a href="https://github.com/YouSS3ra?tab=repositories">GITHUB</a>
 </p>
 
-<p align="center">
-  <strong>UNDERSTAND THE SYSTEM&nbsp; · &nbsp;DESIGN WITH INTENT&nbsp; · &nbsp;BUILD WITH PURPOSE</strong>
-</p>
 
 ---
 
