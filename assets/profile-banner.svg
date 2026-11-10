@@ -1,39 +1,78 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-<title id="title">Youssra Hamidouche — Software Engineering and Artificial Intelligence</title>
-<desc id="desc">A dark blue technical banner with the author's name on the left and a luminous three-dimensional geometric object on the right.</desc>
+<title id="title">Youssra Hamidouche — Computer Engineering, Software Engineering and AI</title>
+<desc id="desc">An animated engineering concept: a problem is understood, its architecture takes shape, and the system becomes a finished geometric structure.</desc>
 <defs>
- <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1728"/><stop offset=".58" stop-color="#13243a"/><stop offset="1" stop-color="#211d3b"/></linearGradient>
- <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#4bd7eb"/><stop offset="1" stop-color="#9b83ff"/></linearGradient>
- <linearGradient id="faceA" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#57d9ec" stop-opacity=".65"/><stop offset="1" stop-color="#3b79b8" stop-opacity=".15"/></linearGradient>
- <linearGradient id="faceB" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#9b83ff" stop-opacity=".55"/><stop offset="1" stop-color="#4a3d86" stop-opacity=".15"/></linearGradient>
- <radialGradient id="glow"><stop stop-color="#58cfea" stop-opacity=".22"/><stop offset="1" stop-color="#58cfea" stop-opacity="0"/></radialGradient>
- <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#a6bad1" stroke-opacity=".08"/></pattern>
- <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="15"/></filter>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071426"/><stop offset=".58" stop-color="#10243b"/><stop offset="1" stop-color="#1b1a38"/></linearGradient>
+  <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#50e0ef"/><stop offset="1" stop-color="#8d8cff"/></linearGradient>
+  <linearGradient id="violet" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#a38bff" stop-opacity=".8"/><stop offset="1" stop-color="#4abbdc" stop-opacity=".2"/></linearGradient>
+  <radialGradient id="aura"><stop stop-color="#28b9df" stop-opacity=".2"/><stop offset="1" stop-color="#28b9df" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#9eb7d4" stroke-opacity=".075"/></pattern>
+  <filter id="blur"><feGaussianBlur stdDeviation="18"/></filter>
+  <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 </defs>
-<rect width="1200" height="360" rx="22" fill="url(#bg)"/><rect width="1200" height="360" rx="22" fill="url(#grid)"/>
-<rect x="24" y="24" width="1152" height="312" rx="15" fill="none" stroke="#91a8c5" stroke-opacity=".22"/>
+<rect width="1200" height="360" rx="22" fill="url(#bg)"/>
+<rect width="1200" height="360" rx="22" fill="url(#grid)"/>
+<rect x="22" y="22" width="1156" height="316" rx="16" fill="none" stroke="#a9c2df" stroke-opacity=".2"/>
+<path d="M650 40V320" stroke="#8da8c8" stroke-opacity=".12" stroke-dasharray="3 8"/>
 <g font-family="Inter,Segoe UI,Arial,sans-serif">
- <text x="76" y="91" fill="#58d5ee" font-size="13" font-weight="700" letter-spacing="4">SOFTWARE ENGINEERING  /  ARTIFICIAL INTELLIGENCE</text>
- <text x="72" y="164" fill="#f4f7fc" font-size="52" font-weight="700">Youssra Hamidouche</text>
- <text x="76" y="207" fill="#c5d3e5" font-size="21">Computer Engineering Student</text>
- <path d="M76 239H420" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
- <text x="76" y="278" fill="#a9bbd1" font-size="14" font-weight="600" letter-spacing="1.2">OPEN TO A 6-MONTH PFE  ·  FEB / MAR 2027</text>
+  <text x="76" y="102" fill="#62d9ed" font-size="13" font-weight="700" letter-spacing="3.5">COMPUTER ENGINEERING</text>
+  <text x="72" y="174" fill="#f4f7fc" font-size="54" font-weight="700" letter-spacing="-1.6">Youssra Hamidouche</text>
+  <text x="76" y="218" fill="#c2d2e5" font-size="21" letter-spacing=".3">Software Engineering <tspan fill="#64d5e8">×</tspan> Artificial Intelligence</text>
+  <path d="M76 250H420" stroke="url(#cyan)" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="420" cy="250" r="4" fill="#75e4f1"/>
 </g>
-<circle cx="900" cy="178" r="190" fill="url(#glow)"/>
-<ellipse cx="914" cy="292" rx="145" ry="18" fill="#000" opacity=".35" filter="url(#shadow)"/>
-<g transform="translate(900 165)" stroke-linejoin="round">
- <ellipse cx="0" cy="92" rx="132" ry="29" fill="none" stroke="url(#accent)" stroke-opacity=".55" stroke-width="1.5" transform="rotate(-18)"/>
- <ellipse cx="0" cy="92" rx="132" ry="29" fill="none" stroke="#61cfe8" stroke-opacity=".35" stroke-width="1.2" transform="rotate(54)"/>
- <path d="M0 -112L104 -52L104 68L0 128L-104 68L-104 -52Z" fill="#0c1b2d" fill-opacity=".5" stroke="url(#accent)" stroke-width="2.2"/>
- <path d="M0 -112L104 -52L0 8L-104 -52Z" fill="url(#faceA)" stroke="#65d9ed" stroke-opacity=".85" stroke-width="1.5"/>
- <path d="M-104 -52L0 8V128L-104 68Z" fill="#1b4562" fill-opacity=".72" stroke="#55cbe5" stroke-opacity=".8" stroke-width="1.5"/>
- <path d="M0 8L104 -52V68L0 128Z" fill="url(#faceB)" stroke="#a18aff" stroke-opacity=".85" stroke-width="1.5"/>
- <path d="M0 -72L54 -41L0 -10L-54 -41Z" fill="#d7faff" fill-opacity=".12" stroke="#9ceafa" stroke-opacity=".65"/>
- <path d="M0 -10V66" stroke="#a4e7f4" stroke-opacity=".65" stroke-width="1.5"/>
- <path d="M-54 -41V25L0 56L54 25V-41" fill="none" stroke="#a4e7f4" stroke-opacity=".5"/>
- <circle cx="0" cy="8" r="18" fill="#7be2ef" fill-opacity=".18" stroke="#a4f0f5" stroke-width="1.5"/>
- <circle cx="0" cy="8" r="5" fill="#d8fbff"/>
+<circle cx="914" cy="180" r="205" fill="url(#aura)" filter="url(#blur)"/>
+<!-- Phase 1: understand the problem -->
+<g opacity="1">
+  <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;.27;.34;.94;1" dur="9s" repeatCount="indefinite"/>
+  <g fill="none" stroke="#54cfea" stroke-width="1.5" stroke-opacity=".72">
+    <path d="M900 86L1045 151L980 270L830 218Z"/>
+    <path d="M900 86L900 210L980 270M1045 151L900 210L830 218"/>
+    <path d="M900 86L980 34M1045 151L1112 96M830 218L760 270" stroke-dasharray="4 7"/>
+    <circle cx="900" cy="86" r="5" fill="#66dff1"/><circle cx="1045" cy="151" r="5" fill="#66dff1"/>
+    <circle cx="980" cy="270" r="5" fill="#66dff1"/><circle cx="830" cy="218" r="5" fill="#66dff1"/>
+  </g>
+  <path d="M900 118L946 145V199L900 226L854 199V145Z" fill="#0b233b" stroke="url(#cyan)" stroke-width="2"/>
+  <text x="900" y="187" text-anchor="middle" fill="#baf7ff" font-size="47" font-family="Inter,Arial,sans-serif" font-weight="300">?</text>
+  <g fill="#a6eafa"><circle cx="760" cy="270" r="3"/><circle cx="1112" cy="96" r="3"/><circle cx="980" cy="34" r="3"/></g>
 </g>
-<g fill="#d7eefa"><circle cx="1080" cy="72" r="3"/><circle cx="1098" cy="94" r="2"/><circle cx="755" cy="270" r="2.5"/></g>
-<g stroke="url(#accent)" stroke-opacity=".55" fill="none"><path d="M1050 115h50v-24h42" stroke-dasharray="3 6"/><path d="M760 100h48v-22h34" stroke-dasharray="3 6"/></g>
+<!-- Phase 2: design the architecture -->
+<g opacity="0">
+  <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.27;.34;.61;.68;1" dur="9s" repeatCount="indefinite"/>
+  <g fill="none" stroke="#58d5ed" stroke-width="1.7" stroke-opacity=".82">
+    <path d="M900 74L900 132L790 190M900 132L1010 190M790 190L790 265M1010 190L1010 265M900 132L900 245"/>
+    <path d="M790 190L900 245L1010 190" stroke-opacity=".45"/>
+  </g>
+  <g fill="#102c48" stroke="url(#cyan)" stroke-width="2">
+    <rect x="870" y="44" width="60" height="58" rx="7"/>
+    <rect x="758" y="174" width="64" height="42" rx="6"/>
+    <rect x="978" y="174" width="64" height="42" rx="6"/>
+    <rect x="758" y="250" width="64" height="42" rx="6"/>
+    <rect x="868" y="224" width="64" height="42" rx="6"/>
+    <rect x="978" y="250" width="64" height="42" rx="6"/>
+  </g>
+  <g fill="#a9f1fa"><circle cx="900" cy="132" r="5"/><circle cx="790" cy="190" r="4"/><circle cx="1010" cy="190" r="4"/></g>
+  <path d="M900 57L916 73L900 89L884 73Z" fill="#c8faff" fill-opacity=".22"/>
+</g>
+<!-- Phase 3: build a coherent system -->
+<g opacity="0">
+  <animate attributeName="opacity" values="0;0;0;1;1;0" keyTimes="0;.61;.68;.72;.94;1" dur="9s" repeatCount="indefinite"/>
+  <g transform="translate(910 175)" stroke-linejoin="round" filter="url(#glow)">
+    <ellipse cx="0" cy="102" rx="145" ry="31" fill="none" stroke="url(#cyan)" stroke-opacity=".7" stroke-width="1.5" transform="rotate(-15)"/>
+    <ellipse cx="0" cy="102" rx="145" ry="31" fill="none" stroke="#8d8cff" stroke-opacity=".45" stroke-width="1.2" transform="rotate(53)"/>
+    <path d="M0 -112L104 -52V68L0 128L-104 68V-52Z" fill="#0c2038" fill-opacity=".78" stroke="url(#cyan)" stroke-width="2.4"/>
+    <path d="M0 -112L104 -52L0 8L-104 -52Z" fill="#47cde5" fill-opacity=".2" stroke="#73e3f0" stroke-opacity=".9"/>
+    <path d="M-104 -52L0 8V128L-104 68Z" fill="#276080" fill-opacity=".4" stroke="#59cde6" stroke-opacity=".8"/>
+    <path d="M0 8L104 -52V68L0 128Z" fill="url(#violet)" stroke="#a18aff" stroke-opacity=".85"/>
+    <path d="M0 -64L48 -36L0 -8L-48 -36Z" fill="none" stroke="#c6f7ff" stroke-opacity=".75"/>
+    <path d="M0 -8V65M-48 -36V22L0 50L48 22V-36" fill="none" stroke="#b5edf8" stroke-opacity=".6"/>
+    <circle cx="0" cy="8" r="17" fill="#7be2ef" fill-opacity=".18" stroke="#c1f7ff"/>
+    <circle cx="0" cy="8" r="4" fill="#e7fdff"/>
+  </g>
+  <g fill="#b7f4ff"><circle cx="1090" cy="72" r="3"/><circle cx="1108" cy="96" r="2"/><circle cx="748" cy="272" r="2.5"/></g>
+</g>
+<!-- Quiet orbiting signal -->
+<circle cx="910" cy="180" r="3.5" fill="#d9fbff">
+  <animate attributeName="opacity" values=".35;1;.35" dur="2.8s" repeatCount="indefinite"/>
+</circle>
 </svg>
