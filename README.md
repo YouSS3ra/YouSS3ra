@@ -2,6 +2,8 @@
   <img src="https://raw.githubusercontent.com/YouSS3ra/YouSS3ra/main/assets/profile-banner.svg" alt="Youssra Hamidouche — Software Engineering and Artificial Intelligence" width="100%" />
 </p>
 
+<p align="center"><strong>Understand the system. Design with intent. Build with purpose.</strong></p>
+
 <p align="center">
   <a href="https://linkedin.com/in/youssra-hamidouche-213025248">LINKEDIN</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
