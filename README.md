@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <em>Curious by nature. Structured in thought. Intentional in what I build.</em>
+  <strong>UNDERSTAND THE SYSTEM&nbsp; · &nbsp;DESIGN WITH INTENT&nbsp; · &nbsp;BUILD WITH PURPOSE</strong>
 </p>
 
 ---
