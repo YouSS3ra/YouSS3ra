@@ -1,60 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
-  <title id="title">Youssra Hamidouche | NEXUS Engineering Lab</title>
-  <desc id="desc">A unified dark technical blueprint with connected software components and intelligent systems.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#081321"/>
-      <stop offset=".58" stop-color="#101d32"/>
-      <stop offset="1" stop-color="#17152e"/>
-    </linearGradient>
-    <linearGradient id="line" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#35c7e8"/>
-      <stop offset="1" stop-color="#9478ff"/>
-    </linearGradient>
-    <radialGradient id="halo">
-      <stop offset="0" stop-color="#536dff" stop-opacity=".22"/>
-      <stop offset="1" stop-color="#536dff" stop-opacity="0"/>
-    </radialGradient>
-    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
-      <path d="M28 0H0V28" fill="none" stroke="#9db3cc" stroke-opacity=".09" stroke-width="1"/>
-    </pattern>
-  </defs>
-  <rect width="1200" height="390" rx="22" fill="url(#bg)"/>
-  <rect width="1200" height="390" rx="22" fill="url(#grid)"/>
-  <circle cx="960" cy="184" r="280" fill="url(#halo)"/>
-  <rect x="42" y="38" width="1116" height="314" rx="15" fill="none" stroke="#8ba5c4" stroke-opacity=".22"/>
-  <g font-family="Inter,Segoe UI,Arial,sans-serif">
-    <text x="82" y="92" fill="#58d5ee" font-size="13" font-weight="700" letter-spacing="4">NEXUS / ENGINEERING LAB</text>
-    <text x="78" y="165" fill="#f3f7ff" font-size="52" font-weight="700">Youssra Hamidouche</text>
-    <text x="82" y="207" fill="#c1d0e2" font-size="21">Software Engineering  ×  Artificial Intelligence</text>
-    <path d="M82 244H440" stroke="url(#line)" stroke-width="3" stroke-linecap="round"/>
-    <text x="82" y="283" fill="#9fb1c7" font-size="14" letter-spacing="2">DESIGN SYSTEMS · EXPLORE INTELLIGENCE · BUILD WITH PURPOSE</text>
-    <text x="82" y="319" fill="#6f88a7" font-size="11" letter-spacing="2">COMPUTER ENGINEERING / MOROCCO / 2027</text>
-  </g>
-  <g fill="none" stroke="url(#line)" stroke-width="1.5" stroke-opacity=".8">
-    <path d="M650 108H790L850 168H1008L1080 96"/>
-    <path d="M650 276H760L825 211H960L1032 282H1110"/>
-    <path d="M790 108V276M850 168V211M1008 168L1032 282"/>
-    <path d="M960 211L1080 96"/>
-  </g>
-  <g fill="#0b1728" stroke="url(#line)" stroke-width="2">
-    <rect x="634" y="91" width="32" height="32" rx="7"/>
-    <rect x="774" y="92" width="32" height="32" rx="7"/>
-    <rect x="834" y="152" width="32" height="32" rx="7"/>
-    <rect x="992" y="152" width="32" height="32" rx="7"/>
-    <rect x="1064" y="80" width="32" height="32" rx="7"/>
-    <rect x="634" y="260" width="32" height="32" rx="7"/>
-    <rect x="744" y="260" width="32" height="32" rx="7"/>
-    <rect x="809" y="195" width="32" height="32" rx="7"/>
-    <rect x="944" y="195" width="32" height="32" rx="7"/>
-    <rect x="1016" y="266" width="32" height="32" rx="7"/>
-    <rect x="1094" y="266" width="32" height="32" rx="7"/>
-  </g>
-  <g font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="10" fill="#a8bdd5" letter-spacing="1">
-    <text x="628" y="72">01 / DESIGN</text>
-    <text x="890" y="139">02 / CONNECT</text>
-    <text x="1014" y="329">03 / BUILD</text>
-  </g>
-  <circle cx="850" cy="168" r="4" fill="#55d6ed"/>
-  <circle cx="960" cy="211" r="4" fill="#a28aff"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Youssra Hamidouche — Software Engineering and Artificial Intelligence</title>
+<desc id="desc">A dark blue technical banner with the author's name on the left and a luminous three-dimensional geometric object on the right.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1728"/><stop offset=".58" stop-color="#13243a"/><stop offset="1" stop-color="#211d3b"/></linearGradient>
+ <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#4bd7eb"/><stop offset="1" stop-color="#9b83ff"/></linearGradient>
+ <linearGradient id="faceA" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#57d9ec" stop-opacity=".65"/><stop offset="1" stop-color="#3b79b8" stop-opacity=".15"/></linearGradient>
+ <linearGradient id="faceB" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#9b83ff" stop-opacity=".55"/><stop offset="1" stop-color="#4a3d86" stop-opacity=".15"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#58cfea" stop-opacity=".22"/><stop offset="1" stop-color="#58cfea" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#a6bad1" stroke-opacity=".08"/></pattern>
+ <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="15"/></filter>
+</defs>
+<rect width="1200" height="360" rx="22" fill="url(#bg)"/><rect width="1200" height="360" rx="22" fill="url(#grid)"/>
+<rect x="24" y="24" width="1152" height="312" rx="15" fill="none" stroke="#91a8c5" stroke-opacity=".22"/>
+<g font-family="Inter,Segoe UI,Arial,sans-serif">
+ <text x="76" y="91" fill="#58d5ee" font-size="13" font-weight="700" letter-spacing="4">COMPUTER ENGINEERING  /  MOROCCO</text>
+ <text x="72" y="164" fill="#f4f7fc" font-size="52" font-weight="700">Youssra Hamidouche</text>
+ <text x="76" y="207" fill="#c5d3e5" font-size="21">Software Engineering  ×  Artificial Intelligence</text>
+ <path d="M76 239H420" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+ <text x="76" y="278" fill="#a9bbd1" font-size="14" letter-spacing="1.4">Building software. Understanding systems. Exploring ideas.</text>
+</g>
+<circle cx="900" cy="178" r="190" fill="url(#glow)"/>
+<ellipse cx="914" cy="292" rx="145" ry="18" fill="#000" opacity=".35" filter="url(#shadow)"/>
+<g transform="translate(900 165)" stroke-linejoin="round">
+ <ellipse cx="0" cy="92" rx="132" ry="29" fill="none" stroke="url(#accent)" stroke-opacity=".55" stroke-width="1.5" transform="rotate(-18)"/>
+ <ellipse cx="0" cy="92" rx="132" ry="29" fill="none" stroke="#61cfe8" stroke-opacity=".35" stroke-width="1.2" transform="rotate(54)"/>
+ <path d="M0 -112L104 -52L104 68L0 128L-104 68L-104 -52Z" fill="#0c1b2d" fill-opacity=".5" stroke="url(#accent)" stroke-width="2.2"/>
+ <path d="M0 -112L104 -52L0 8L-104 -52Z" fill="url(#faceA)" stroke="#65d9ed" stroke-opacity=".85" stroke-width="1.5"/>
+ <path d="M-104 -52L0 8V128L-104 68Z" fill="#1b4562" fill-opacity=".72" stroke="#55cbe5" stroke-opacity=".8" stroke-width="1.5"/>
+ <path d="M0 8L104 -52V68L0 128Z" fill="url(#faceB)" stroke="#a18aff" stroke-opacity=".85" stroke-width="1.5"/>
+ <path d="M0 -72L54 -41L0 -10L-54 -41Z" fill="#d7faff" fill-opacity=".12" stroke="#9ceafa" stroke-opacity=".65"/>
+ <path d="M0 -10V66" stroke="#a4e7f4" stroke-opacity=".65" stroke-width="1.5"/>
+ <path d="M-54 -41V25L0 56L54 25V-41" fill="none" stroke="#a4e7f4" stroke-opacity=".5"/>
+ <circle cx="0" cy="8" r="18" fill="#7be2ef" fill-opacity=".18" stroke="#a4f0f5" stroke-width="1.5"/>
+ <circle cx="0" cy="8" r="5" fill="#d8fbff"/>
+</g>
+<g fill="#d7eefa"><circle cx="1080" cy="72" r="3"/><circle cx="1098" cy="94" r="2"/><circle cx="755" cy="270" r="2.5"/></g>
+<g stroke="url(#accent)" stroke-opacity=".55" fill="none"><path d="M1050 115h50v-24h42" stroke-dasharray="3 6"/><path d="M760 100h48v-22h34" stroke-dasharray="3 6"/></g>
 </svg>
