@@ -13,13 +13,11 @@
 <rect width="1200" height="360" rx="22" fill="url(#bg)"/><rect width="1200" height="360" rx="22" fill="url(#grid)"/>
 <rect x="24" y="24" width="1152" height="312" rx="15" fill="none" stroke="#91a8c5" stroke-opacity=".22"/>
 <g font-family="Inter,Segoe UI,Arial,sans-serif">
- <text x="76" y="91" fill="#58d5ee" font-size="13" font-weight="700" letter-spacing="4">COMPUTER ENGINEERING  /  MOROCCO</text>
+ <text x="76" y="91" fill="#58d5ee" font-size="13" font-weight="700" letter-spacing="4">SOFTWARE ENGINEERING  /  ARTIFICIAL INTELLIGENCE</text>
  <text x="72" y="164" fill="#f4f7fc" font-size="52" font-weight="700">Youssra Hamidouche</text>
- <text x="76" y="207" fill="#c5d3e5" font-size="21">Software Engineering  ×  Artificial Intelligence</text>
+ <text x="76" y="207" fill="#c5d3e5" font-size="21">Computer Engineering Student</text>
  <path d="M76 239H420" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
- <text x="76" y="267" fill="#d5e5f2" font-size="14" font-weight="600" letter-spacing="1.1">UNDERSTAND THE SYSTEM.</text>
- <text x="76" y="289" fill="#a9bbd1" font-size="14" font-weight="600" letter-spacing="1.1">DESIGN WITH INTENT.</text>
- <text x="76" y="311" fill="#a9bbd1" font-size="14" font-weight="600" letter-spacing="1.1">BUILD WITH PURPOSE.</text>
+ <text x="76" y="278" fill="#a9bbd1" font-size="14" font-weight="600" letter-spacing="1.2">OPEN TO A 6-MONTH PFE  ·  FEB / MAR 2027</text>
 </g>
 <circle cx="900" cy="178" r="190" fill="url(#glow)"/>
 <ellipse cx="914" cy="292" rx="145" ry="18" fill="#000" opacity=".35" filter="url(#shadow)"/>
