@@ -48,23 +48,13 @@ I value clear requirements, deliberate design decisions, and solutions whose beh
   <tr>
     <td width="50%" valign="top">
       <h3>Software Engineering</h3>
-      <sub>DESIGN · ARCHITECTURE · IMPLEMENTATION</sub>
-      <ul>
-        <li>Backend development and API design</li>
-        <li>Application architecture and design principles</li>
-        <li>Database modelling and persistence</li>
-        <li>Distributed systems and cloud foundations</li>
-      </ul>
+      <sub>STRUCTURE · RELIABILITY · MAINTAINABILITY</sub>
+      <p>Turning requirements into well-structured applications through clear abstractions, sound architecture, and deliberate engineering decisions.</p>
     </td>
     <td width="50%" valign="top">
       <h3>Artificial Intelligence</h3>
-      <sub>DATA · MODELS · INTELLIGENT APPLICATIONS</sub>
-      <ul>
-        <li>Machine learning and deep learning</li>
-        <li>Generative AI and LLM applications</li>
-        <li>Retrieval-augmented generation (RAG)</li>
-        <li>AI agents, evaluation and explainability</li>
-      </ul>
+      <sub>DATA · REASONING · PRACTICAL APPLICATIONS</sub>
+      <p>Exploring how models and data can extend software capabilities, while keeping usefulness, evaluation, and explainability in view.</p>
     </td>
   </tr>
 </table>
@@ -181,28 +171,30 @@ The technologies below reflect tools used across academic, personal, and profess
 | **Databases & Messaging** | PostgreSQL · MySQL · MongoDB · Oracle · SQL Server · Redis · Kafka |
 | **Engineering Tools** | Git · GitHub · Docker · Postman |
 
-## 06 / Current Explorations
+## 06 / What I'm Exploring Now
+
+Beyond the technologies I use, I'm digging into the mechanisms and trade-offs that shape real-world systems and intelligent applications.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Software Engineering</h3>
-      <sub>UNDERSTANDING SYSTEMS BEYOND THE CODE</sub>
+      <h3>Systems & Software</h3>
+      <sub>HOW RELIABLE SYSTEMS WORK UNDER THE HOOD</sub>
       <ul>
-        <li>Software architecture and design</li>
-        <li>Distributed systems and scalability</li>
-        <li>Cloud infrastructure and deployment</li>
-        <li>Backend performance and database internals</li>
+        <li><strong>Distributed systems:</strong> service communication, consistency, fault tolerance, and horizontal scaling.</li>
+        <li><strong>Cloud foundations:</strong> data centres, virtualization, hypervisors, containers, IaaS/PaaS, and deployment.</li>
+        <li><strong>Backend internals:</strong> JVM fundamentals, memory, concurrency, and database internals.</li>
+        <li><strong>System design:</strong> balancing reliability, performance, cost, and maintainability.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>Artificial Intelligence</h3>
-      <sub>FROM MODEL FUNDAMENTALS TO APPLICATIONS</sub>
+      <h3>AI Engineering</h3>
+      <sub>FROM MODEL BEHAVIOUR TO USEFUL APPLICATIONS</sub>
       <ul>
-        <li>Machine learning and deep learning</li>
-        <li>LLM application design and RAG</li>
-        <li>AI agents and evaluation</li>
-        <li>Explainability and reliable AI workflows</li>
+        <li><strong>ML foundations:</strong> revisiting machine-learning and deep-learning concepts and model behaviour.</li>
+        <li><strong>LLM systems:</strong> RAG pipelines, retrieval quality, context management, and agent workflows.</li>
+        <li><strong>Evaluation & explainability:</strong> assessing output quality, reliability, interpretability, and limitations.</li>
+        <li><strong>AI integration:</strong> connecting models to backend services and practical software workflows.</li>
       </ul>
     </td>
   </tr>
