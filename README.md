@@ -1,13 +1,11 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YouSS3ra/YouSS3ra/main/assets/profile-banner.svg" alt="Youssra Hamidouche — Software Engineering and Artificial Intelligence" width="100%" />
+  <img src="assets/profile-banner.svg" alt="Youssra — Software Engineering × Artificial Intelligence" width="100%" />
 </p>
 
-<p align="center">
-  <strong>Understand the system. Design with intent. Build with purpose.</strong>
-</p>
+<p align="center"><strong>Understand the system. Design with intent. Build with purpose.</strong></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1500&color=55D6BE&center=true&vCenter=true&width=760&lines=Engineering+reliable+software;Exploring+applied+artificial+intelligence;Turning+complex+problems+into+clear+solutions" alt="Engineering reliable software · Exploring applied artificial intelligence · Turning complex problems into clear solutions" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1700&color=55D6BE&center=true&vCenter=true&width=780&lines=Engineering+reliable+software+systems;Exploring+applied+artificial+intelligence;Connecting+architecture%2C+data+and+intelligence" alt="Engineering reliable software systems · Exploring applied AI · Connecting architecture, data and intelligence" />
 </p>
 
 <p align="center">
@@ -15,7 +13,7 @@
   &nbsp;·&nbsp;
   <a href="mailto:youssrahamidouche@gmail.com"><strong>EMAIL</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/YouSS3ra?tab=repositories"><strong>PROJECTS</strong></a>
+  <a href="https://github.com/YouSS3ra?tab=repositories"><strong>REPOSITORIES</strong></a>
 </p>
 
 <p align="center">
@@ -26,120 +24,41 @@
 
 ---
 
-## 01 / Profile
+## 01 / About
 
-I'm a **Computer Engineering student at ENIAD, Morocco**, interested in building software systems that are useful, understandable, and maintainable.
+I'm a **final-year Computer Engineering student at ENIAD, Morocco**, interested in designing and building useful, reliable, and maintainable software systems.
 
-My main focus lies at the intersection of **Software Engineering and Artificial Intelligence**. I enjoy designing application backends, connecting system components, and exploring how intelligent techniques can address practical problems.
+My interests sit at the intersection of **Software Engineering and Artificial Intelligence**. I enjoy understanding how systems work, structuring application backends, connecting components, and exploring how data-driven techniques can solve practical problems.
 
-I care about more than getting a feature to work: I want to understand the requirements behind it, make deliberate design decisions, and build solutions whose behaviour can be explained and maintained.
+I value clear requirements, deliberate design decisions, and solutions whose behaviour can be understood, tested, and maintained.
 
-**Currently seeking a 6-month final-year internship (PFE), starting February/March 2027**, focused on **Software Engineering and Artificial Intelligence**.
+<p align="center">
+  <img src="assets/animations/engineering-terminal.svg" alt="Animated terminal introducing my engineering interests" width="100%" />
+</p>
 
-## 02 / Technical toolkit
+**Currently seeking a 6-month final-year internship (PFE), starting February/March 2027**, focused on Software Engineering and Artificial Intelligence.
 
-The technologies below reflect tools I have used across academic and personal projects. My depth of experience varies by technology.
+## 02 / Engineering × Intelligence
 
-| **LANGUAGES** | **BACKEND & APPLICATIONS** |
-|:--|:--|
-| ![Java](https://img.shields.io/badge/Java-20232A?style=flat-square&logo=openjdk&logoColor=ED8B00) ![Python](https://img.shields.io/badge/Python-20232A?style=flat-square&logo=python&logoColor=3776AB) ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=flat-square&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=flat-square&logo=typescript&logoColor=3178C6) ![PHP](https://img.shields.io/badge/PHP-20232A?style=flat-square&logo=php&logoColor=777BB4) ![C#](https://img.shields.io/badge/C%23-20232A?style=flat-square&logo=csharp&logoColor=9B4F96) ![SQL](https://img.shields.io/badge/SQL-20232A?style=flat-square&logo=postgresql&logoColor=4169E1) | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-20232A?style=flat-square&logo=springboot&logoColor=6DB33F) ![.NET](https://img.shields.io/badge/.NET-20232A?style=flat-square&logo=dotnet&logoColor=512BD4) ![Node.js](https://img.shields.io/badge/Node.js-20232A?style=flat-square&logo=nodedotjs&logoColor=5FA04E) ![Express](https://img.shields.io/badge/Express-20232A?style=flat-square&logo=express&logoColor=FFFFFF) ![Laravel](https://img.shields.io/badge/Laravel-20232A?style=flat-square&logo=laravel&logoColor=FF2D20) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vue.js](https://img.shields.io/badge/Vue.js-20232A?style=flat-square&logo=vuedotjs&logoColor=4FC08D) |
-| **AI & DATA** | **DATABASES & ENGINEERING TOOLS** |
-| ![Scikit-learn](https://img.shields.io/badge/scikit--learn-20232A?style=flat-square&logo=scikitlearn&logoColor=F7931E) ![Pandas](https://img.shields.io/badge/Pandas-20232A?style=flat-square&logo=pandas&logoColor=150458) ![NumPy](https://img.shields.io/badge/NumPy-20232A?style=flat-square&logo=numpy&logoColor=013243) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232A?style=flat-square&logo=postgresql&logoColor=4169E1) ![MySQL](https://img.shields.io/badge/MySQL-20232A?style=flat-square&logo=mysql&logoColor=4479A1) ![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=flat-square&logo=mongodb&logoColor=47A248) ![Oracle](https://img.shields.io/badge/Oracle-20232A?style=flat-square&logo=oracle&logoColor=F80000) ![Git](https://img.shields.io/badge/Git-20232A?style=flat-square&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/GitHub-20232A?style=flat-square&logo=github&logoColor=FFFFFF) ![Docker](https://img.shields.io/badge/Docker-20232A?style=flat-square&logo=docker&logoColor=2496ED) ![Postman](https://img.shields.io/badge/Postman-20232A?style=flat-square&logo=postman&logoColor=FF6C37) |
-
-## 03 / Selected work
-
-A closer look at projects where I explored intelligent systems, application engineering, and practical software design.
-
-### FEATURED PROJECT
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/YouSS3ra/KSentinel-Showcase">
-        <img src="https://raw.githubusercontent.com/YouSS3ra/KSentinel-Showcase/main/docs/images/accueil.jpg" alt="KSentinel fraud detection platform dashboard" width="100%" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>KSentinel — Intelligent Fraud Detection & Risk Scoring</h3>
-      <p><strong>AI · JAVA · SPRING BOOT</strong></p>
-      <p><sub>FRAUD DETECTION · PLATFORM ENGINEERING</sub></p>
-      <p>An intelligent platform for analysing transactions, detecting suspicious behaviour, and turning model outputs into actionable risk insights. It brings together Java/Spring Boot application services and complementary AI approaches within an analyst-oriented platform.</p>
-      <p>
-        <a href="https://github.com/YouSS3ra/KSentinel-Showcase"><strong>EXPLORE KSentinel ↗</strong></a>
-        &nbsp;·&nbsp;
-        <a href="https://github.com/YouSS3ra/KSentinel-Showcase#platform-architecture">Architecture & technical overview</a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-### MORE PROJECTS
+<p align="center">
+  <img src="assets/animations/engineering-x-ai.svg" alt="Software Engineering and Artificial Intelligence connected through data and system design" width="100%" />
+</p>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/YouSS3ra/Repartout-PWA">
-        <img src="https://raw.githubusercontent.com/YouSS3ra/Repartout-PWA/main/assets/images/repartout-overview.png" alt="REPARTOUT application overview" width="100%" />
-      </a>
-      <h3>REPARTOUT</h3>
-      <p><sub>JAVA · SPRING BOOT · SPRING SECURITY</sub></p>
-      <p>A service-management application for customer and equipment records, technical intervention tracking, and rule-based diagnostic assistance.</p>
-      <a href="https://github.com/YouSS3ra/Repartout-PWA"><strong>VIEW PROJECT ↗</strong></a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/YouSS3ra/ProcessScope">
-        <img src="https://raw.githubusercontent.com/YouSS3ra/ProcessScope/main/assets/images/table_processus.png" alt="ProcessScope real-time process monitor" width="100%" />
-      </a>
-      <h3>ProcessScope</h3>
-      <p><sub>PYTHON · WINDOWS · GUI & CLI</sub></p>
-      <p>A Windows process-monitoring tool with live CPU and memory tracking, configurable alerts, performance visualisation, CSV reports, and CLI monitoring.</p>
-      <a href="https://github.com/YouSS3ra/ProcessScope"><strong>VIEW PROJECT ↗</strong></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/YouSS3ra/boti-qms-showcase">
-        <img src="https://raw.githubusercontent.com/YouSS3ra/YouSS3ra/main/assets/botiqms-cover.svg" alt="BotiQMS quality management system visual cover" width="100%" />
-      </a>
-      <h3>BotiQMS</h3>
-      <p><sub>FULL-STACK · QUALITY MANAGEMENT · BUSINESS WORKFLOWS</sub></p>
-      <p>A modular Quality Management System developed independently during an internship, covering structured quality processes and business workflows. The public repository presents an overview; application source remains private.</p>
-      <a href="https://github.com/YouSS3ra/boti-qms-showcase"><strong>VIEW PUBLIC SHOWCASE ↗</strong></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>More from my work</h3>
-      <p><strong>Startup LaunchPad</strong></p>
-      <p><sub>FLUTTER · DART · SQLITE</sub></p>
-      <p>A mobile workspace for organising startup ideas, managing tasks through a Kanban workflow, and structuring a product roadmap.</p>
-      <a href="https://github.com/YouSS3ra/Startup-LaunchPad"><strong>VIEW PROJECT ↗</strong></a>
-      <hr />
-      <p><sub>Explore the rest of my work in the repository collection.</sub></p>
-      <a href="https://github.com/YouSS3ra?tab=repositories"><strong>ALL REPOSITORIES ↗</strong></a>
-    </td>
-  </tr>
-</table>
-
-## 04 / What I'm developing
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <p><img src="https://img.shields.io/badge/FOCUS-01-087E8B?style=flat-square" alt="Focus 01" /></p>
       <h3>Software Engineering</h3>
-      <p><sub>DESIGNING SYSTEMS THAT ARE CLEAR, RELIABLE & MAINTAINABLE</sub></p>
+      <sub>DESIGN · ARCHITECTURE · IMPLEMENTATION</sub>
       <ul>
-        <li>Backend engineering and API design</li>
-        <li>Software architecture and design principles</li>
-        <li>Database design and data modelling</li>
+        <li>Backend development and API design</li>
+        <li>Application architecture and design principles</li>
+        <li>Database modelling and persistence</li>
         <li>Distributed systems and cloud foundations</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <p><img src="https://img.shields.io/badge/FOCUS-02-6554C0?style=flat-square" alt="Focus 02" /></p>
       <h3>Artificial Intelligence</h3>
-      <p><sub>BUILDING A STRONG UNDERSTANDING OF APPLIED AI</sub></p>
+      <sub>DATA · MODELS · INTELLIGENT APPLICATIONS</sub>
       <ul>
         <li>Machine learning and deep learning</li>
         <li>Generative AI and LLM applications</li>
@@ -150,16 +69,164 @@ A closer look at projects where I explored intelligent systems, application engi
   </tr>
 </table>
 
-## 05 / Let's build something meaningful
+---
+
+## 03 / Selected Projects
+
+A selection of academic, personal, and professional work exploring intelligent systems, application engineering, and practical software design.
+
+### KSentinel — Intelligent Fraud Detection & Risk Scoring
 
 <p align="center">
-  <strong>Have an interesting engineering challenge, a project to build, or a PFE opportunity?</strong>
+  <img src="https://raw.githubusercontent.com/YouSS3ra/KSentinel-Showcase/main/docs/images/analyst-dashboard.jpg" alt="KSentinel analyst dashboard" width="100%" />
 </p>
 
 <p align="center">
-  I'm always glad to connect with engineers, teams, and people who enjoy turning thoughtful ideas into useful products.
-  <br />
-  I'm currently looking for a **6-month PFE starting February/March 2027** in **Software Engineering or Artificial Intelligence**.
+  <img src="https://raw.githubusercontent.com/YouSS3ra/KSentinel-Showcase/main/docs/images/ai-explanation.jpg" alt="KSentinel AI explainability interface" width="49%" />
+  <img src="https://raw.githubusercontent.com/YouSS3ra/KSentinel-Showcase/main/docs/images/risk-management.jpg" alt="KSentinel risk management interface" width="49%" />
+</p>
+
+**TEAM PROJECT · AI · JAVA · SPRING BOOT · PLATFORM ENGINEERING**
+
+An intelligent fraud-detection and risk-scoring platform designed to analyse transactions, identify suspicious behaviour, and make risk-related insights accessible through analyst-oriented interfaces.
+
+The project brings together complementary detection approaches — supervised learning, anomaly detection, deep learning, and graph learning — within a broader application platform.
+
+**Explore:** [Project overview](https://github.com/YouSS3ra/KSentinel-Showcase) · [Platform architecture](https://github.com/YouSS3ra/KSentinel-Showcase#3-platform-architecture)
+
+<sub>Developed collaboratively at ENIAD during the 2025–2026 academic year. Presented here as a shared team project.</sub>
+
+### Other Engineering Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/YouSS3ra/Repartout-PWA">
+        <img src="https://raw.githubusercontent.com/YouSS3ra/Repartout-PWA/main/assets/images/repartout-overview.png" alt="REPARTOUT application overview" width="100%" />
+      </a>
+      <h3>REPARTOUT</h3>
+      <sub>JAVA · SPRING BOOT · SPRING SECURITY</sub>
+      <p>A service-management application for customer and equipment records, technical intervention tracking, and rule-based diagnostic assistance.</p>
+      <a href="https://github.com/YouSS3ra/Repartout-PWA"><strong>EXPLORE PROJECT ↗</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/YouSS3ra/ProcessScope">
+        <img src="https://raw.githubusercontent.com/YouSS3ra/ProcessScope/main/assets/images/table_processus.png" alt="ProcessScope process monitoring interface" width="100%" />
+      </a>
+      <h3>ProcessScope</h3>
+      <sub>PYTHON · WINDOWS · GUI & CLI</sub>
+      <p>A Windows process-monitoring application with live CPU and memory tracking, configurable alerts, performance visualisation, CSV reports, and command-line monitoring.</p>
+      <a href="https://github.com/YouSS3ra/ProcessScope"><strong>EXPLORE PROJECT ↗</strong></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/YouSS3ra/boti-qms-showcase">
+        <img src="assets/botiqms-cover.svg" alt="BotiQMS quality management system cover" width="100%" />
+      </a>
+      <h3>BotiQMS</h3>
+      <sub>FULL-STACK · LARAVEL · VUE.JS · TYPESCRIPT</sub>
+      <p>A modular Quality Management System developed during a professional internship, bringing quality processes and business workflows into a structured web application.</p>
+      <a href="https://github.com/YouSS3ra/boti-qms-showcase"><strong>PUBLIC SHOWCASE ↗</strong></a>
+      <p><sub>Public overview only; application source and confidential materials remain private.</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/YouSS3ra/Startup-LaunchPad">
+        <img src="https://raw.githubusercontent.com/YouSS3ra/Startup-LaunchPad/main/assets/images/kanban_gif.gif" alt="Startup LaunchPad Kanban workflow demonstration" width="100%" />
+      </a>
+      <h3>Startup LaunchPad</h3>
+      <sub>FLUTTER · DART · SQLITE</sub>
+      <p>A mobile workspace for capturing ideas, organizing priorities, managing work through a Kanban board, and structuring a product roadmap.</p>
+      <a href="https://github.com/YouSS3ra/Startup-LaunchPad"><strong>EXPLORE PROJECT ↗</strong></a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/YouSS3ra?tab=repositories"><strong>EXPLORE ALL REPOSITORIES ↗</strong></a>
+</p>
+
+---
+
+## 04 / Professional Experience
+
+<table>
+  <tr>
+    <td width="18%" valign="top">
+      <strong>JUL — SEP</strong><br />
+      <sub>2026</sub>
+    </td>
+    <td valign="top">
+      <strong>Full-Stack Developer Intern</strong><br />
+      <sub>BotiSchool · Morocco</sub>
+      <p>Developed BotiQMS, a modular Quality Management System, working across backend application logic, frontend interfaces, data management, and business workflows.</p>
+      <p><sub>Laravel · Vue.js · TypeScript · MySQL</sub></p>
+      <a href="https://github.com/YouSS3ra/boti-qms-showcase">Public project overview ↗</a>
+    </td>
+  </tr>
+</table>
+
+<sub>The public showcase intentionally excludes private source code, internal infrastructure details, and confidential business information.</sub>
+
+## 05 / Technical Toolkit
+
+The technologies below reflect tools used across academic, personal, and professional projects. Experience and depth vary by technology.
+
+| Area | Technologies |
+|---|---|
+| **Languages** | Java · Python · C# · JavaScript · TypeScript · PHP · SQL |
+| **Backend & APIs** | Spring Boot · .NET · Node.js · Express · Laravel · REST APIs · JPA / Hibernate |
+| **Frontend** | React · Vue.js · HTML · CSS |
+| **AI & Data** | Scikit-learn · TensorFlow · LightGBM · XGBoost · Pandas · NumPy · SHAP |
+| **Databases & Messaging** | PostgreSQL · MySQL · MongoDB · Oracle · SQL Server · Redis · Kafka |
+| **Engineering Tools** | Git · GitHub · Docker · Postman |
+
+## 06 / Current Explorations
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Software Engineering</h3>
+      <sub>UNDERSTANDING SYSTEMS BEYOND THE CODE</sub>
+      <ul>
+        <li>Software architecture and design</li>
+        <li>Distributed systems and scalability</li>
+        <li>Cloud infrastructure and deployment</li>
+        <li>Backend performance and database internals</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Artificial Intelligence</h3>
+      <sub>FROM MODEL FUNDAMENTALS TO APPLICATIONS</sub>
+      <ul>
+        <li>Machine learning and deep learning</li>
+        <li>LLM application design and RAG</li>
+        <li>AI agents and evaluation</li>
+        <li>Explainability and reliable AI workflows</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+## 07 / GitHub Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YouSS3ra/YouSS3ra/output/github-snake.svg" alt="Animated GitHub contribution activity" width="100%" />
+</p>
+
+## 08 / Let's Build Something Meaningful
+
+<p align="center">
+  <strong>Interested in engineering, intelligent applications, or building useful products?</strong>
+</p>
+
+<p align="center">
+  I'm glad to connect with engineers, teams, and people who enjoy turning thoughtful ideas into practical solutions.
+</p>
+
+<p align="center">
+  <strong>Open to a 6-month PFE starting February/March 2027</strong><br />
+  <sub>Software Engineering · Artificial Intelligence</sub>
 </p>
 
 <p align="center">
@@ -173,9 +240,7 @@ A closer look at projects where I explored intelligent systems, application engi
 </p>
 
 <p align="center">
-  <sub>OPEN TO COLLABORATION · ENGINEERING CONVERSATIONS · PFE 2027</sub>
+  <img src="assets/animations/footer-flow.svg" alt="Animated engineering data flow" width="100%" />
 </p>
 
-<p align="center">
-  <sub>BUILD WITH CURIOSITY · ENGINEER WITH INTENTION</sub>
-</p>
+<p align="center"><sub>BUILD WITH CURIOSITY · ENGINEER WITH INTENTION</sub></p>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="310" viewBox="0 0 1100 310" role="img" aria-labelledby="title">
+<title id="title">Software Engineering × Artificial Intelligence</title>
+<rect x="1" y="1" width="1098" height="308" rx="18" fill="#101827" stroke="#496176"/>
+<g font-family="Arial,sans-serif">
+<rect x="35" y="42" width="420" height="220" rx="16" fill="#142A3A" stroke="#55D6BE"/>
+<text x="65" y="83" fill="#55D6BE" font-size="13" font-weight="700">01 / SOFTWARE ENGINEERING</text><text x="65" y="126" fill="#F1F5F9" font-size="26" font-weight="700">Design &amp; build systems</text>
+<g fill="#B6C5D6" font-size="15"><text x="65" y="165">APIs</text><text x="155" y="165">Architecture</text><text x="290" y="165">Databases</text><text x="65" y="198">Backend services</text><text x="245" y="198">Distributed systems</text></g><path d="M65 222H420" stroke="#55D6BE" stroke-width="3"/>
+<rect x="645" y="42" width="420" height="220" rx="16" fill="#1D1B3A" stroke="#A78BFA"/>
+<text x="675" y="83" fill="#B7A4FF" font-size="13" font-weight="700">02 / ARTIFICIAL INTELLIGENCE</text><text x="675" y="126" fill="#F1F5F9" font-size="26" font-weight="700">Learn from data</text>
+<g fill="#C8C2E7" font-size="15"><text x="675" y="165">Machine learning</text><text x="835" y="165">Deep learning</text><text x="675" y="198">LLM applications</text><text x="835" y="198">Explainability</text></g><path d="M675 222H1030" stroke="#A78BFA" stroke-width="3"/>
+<path d="M455 150H645" stroke="#8B7CF6" stroke-width="2" stroke-dasharray="7 9"/><circle cx="550" cy="150" r="35" fill="#101827" stroke="#8B7CF6" stroke-width="2"/><text x="550" y="159" text-anchor="middle" fill="#F1F5F9" font-size="27">×</text>
+<text x="550" y="285" text-anchor="middle" fill="#9FB4C7" font-size="12">DATA · SYSTEMS · INTELLIGENCE</text></g></svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="300" viewBox="0 0 1100 300" role="img" aria-labelledby="title">
+<title id="title">Engineering terminal introduction</title>
+<rect x="1" y="1" width="1098" height="298" rx="18" fill="#101827" stroke="#496176"/>
+<path d="M1 55H1099" stroke="#496176"/>
+<circle cx="28" cy="28" r="6" fill="#F87171"/><circle cx="50" cy="28" r="6" fill="#FBBF24"/><circle cx="72" cy="28" r="6" fill="#4ADE80"/>
+<text x="550" y="33" text-anchor="middle" fill="#9FB4C7" font-family="monospace" font-size="13">engineering-profile.sh</text>
+<g font-family="monospace" font-size="19">
+<text x="42" y="98" fill="#55D6BE">youssra@engineering:~$ <tspan fill="#F1F5F9">whoami</tspan></text>
+<text x="42" y="132" fill="#D5E1EC">Computer Engineering student · ENIAD</text>
+<text x="42" y="176" fill="#55D6BE">youssra@engineering:~$ <tspan fill="#F1F5F9">focus</tspan></text>
+<text x="42" y="210" fill="#D5E1EC">Software Engineering × Artificial Intelligence</text>
+<text x="42" y="254" fill="#55D6BE">youssra@engineering:~$ <tspan fill="#F1F5F9">mission</tspan></text>
+<text x="42" y="282" fill="#D5E1EC" font-size="16">Understand systems. Build with purpose.</text>
+</g><path d="M28 286H1072" stroke="#55D6BE" stroke-width="2" opacity=".55"/></svg>

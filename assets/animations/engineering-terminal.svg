@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="300" viewBox="0 0 1100 300" role="img" aria-labelledby="title desc">
+<title id="title">Engineering terminal introduction</title>
+<desc id="desc">A terminal window gradually reveals a short introduction to software engineering and artificial intelligence.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101827"/><stop offset="1" stop-color="#172b3b"/></linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#55D6BE"/><stop offset="1" stop-color="#8B7CF6"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="1098" height="298" rx="18" fill="url(#bg)" stroke="#496176"/>
+<path d="M1 55H1099" stroke="#496176"/>
+<circle cx="28" cy="28" r="6" fill="#F87171"/><circle cx="50" cy="28" r="6" fill="#FBBF24"/><circle cx="72" cy="28" r="6" fill="#4ADE80"/>
+<text x="550" y="33" text-anchor="middle" fill="#9FB4C7" font-family="JetBrains Mono,monospace" font-size="13">engineering-profile.sh</text>
+<g font-family="JetBrains Mono,Consolas,monospace" font-size="19">
+  <text x="42" y="98" fill="#55D6BE">youssra@engineering:~$ <tspan fill="#F1F5F9">whoami</tspan><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;.04;.1;1" dur="10s" repeatCount="indefinite"/></text>
+  <text x="42" y="132" fill="#D5E1EC" opacity="0">Computer Engineering student · ENIAD<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.12;.18;.88;1" dur="10s" repeatCount="indefinite"/></text>
+  <text x="42" y="176" fill="#55D6BE" opacity="0">youssra@engineering:~$ <tspan fill="#F1F5F9">focus</tspan><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.24;.3;.88;1" dur="10s" repeatCount="indefinite"/></text>
+  <text x="42" y="210" fill="#D5E1EC" opacity="0">Software Engineering <tspan fill="#8B7CF6">×</tspan> Artificial Intelligence<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.34;.4;.88;1" dur="10s" repeatCount="indefinite"/></text>
+  <text x="42" y="254" fill="#55D6BE" opacity="0">youssra@engineering:~$ <tspan fill="#F1F5F9">mission</tspan><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.52;.58;.88;1" dur="10s" repeatCount="indefinite"/></text>
+  <text x="42" y="282" fill="#D5E1EC" font-size="16" opacity="0">Understand systems. Build with purpose.<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.62;.68;.88;1" dur="10s" repeatCount="indefinite"/></text>
+</g>
+<rect x="1035" y="265" width="10" height="18" rx="2" fill="#55D6BE"><animate attributeName="opacity" values="1;1;0;0;1" dur="1s" repeatCount="indefinite"/></rect>
+<path d="M28 286H1072" stroke="url(#line)" stroke-width="2" opacity=".55"/>
+</svg>
