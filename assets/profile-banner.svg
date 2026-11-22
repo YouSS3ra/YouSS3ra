@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
 <title id="title">Youssra Hamidouche — Understand, design and build software systems</title>
-<desc id="desc">An animated sequence of translucent puzzle modules carrying fragments of a software architecture blueprint. The modules move, align and assemble into one coherent system.</desc>
+<desc id="desc">An animated sequence of four translucent, precisely interlocking puzzle modules carrying fragments of a software architecture blueprint. The modules move, align and assemble into one coherent system.</desc>
 <defs>
  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#061326"/><stop offset=".6" stop-color="#10223b"/><stop offset="1" stop-color="#1c1936"/></linearGradient>
  <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#64e5f3"/><stop offset="1" stop-color="#557bff"/></linearGradient>
@@ -20,65 +20,68 @@
  <circle cx="430" cy="248" r="4" fill="#75e4f1"/>
 </g>
 <circle cx="930" cy="178" r="205" fill="url(#aura)" filter="url(#blur)"/>
-<!-- Phase title: the problem is being understood -->
 <g font-family="Inter,Segoe UI,Arial,sans-serif" fill="#9ceeff" font-size="13" font-weight="700" letter-spacing="4">
  <text x="760" y="62" opacity="1">UNDERSTAND<animate attributeName="opacity" values="1;1;0;0;0;1" keyTimes="0;.22;.28;.72;.94;1" dur="12s" repeatCount="indefinite"/></text>
  <text x="760" y="62" opacity="0">DESIGN<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.22;.28;.58;.65;1" dur="12s" repeatCount="indefinite"/></text>
  <text x="760" y="62" opacity="0">BUILD<animate attributeName="opacity" values="0;0;0;0;1;1" keyTimes="0;.58;.65;.72;.78;1" dur="12s" repeatCount="indefinite"/></text>
 </g>
 <path d="M760 76H930" stroke="url(#cyan)" stroke-width="1.5" opacity=".65"/>
-<!-- puzzle module 1 -->
+
+<!-- Four equal 84 × 84 modules. Every tab has an exact mirrored socket. -->
+<!-- Top-left: right tab + bottom tab -->
 <g filter="url(#shine)">
- <g transform="translate(0 0)">
+ <g>
   <animateTransform attributeName="transform" type="translate" values="710,105;825,120;855,132;855,132" keyTimes="0;.3;.62;1" dur="12s" repeatCount="indefinite"/>
   <animateTransform attributeName="transform" additive="sum" type="rotate" values="-18 0 0;8 0 0;0 0 0;0 0 0" keyTimes="0;.3;.62;1" dur="12s" repeatCount="indefinite"/>
-  <path d="M-42 -30H-10C-10 -48 18 -48 18 -30H42V-5C60 -5 60 23 42 23V42H-42Z" fill="#123b5c" fill-opacity=".84" stroke="#5dd9f0" stroke-width="2"/>
+  <path d="M-42 -42H42V-12C56 -12 56 12 42 12V42H12C12 56 -12 56 -12 42H-42Z" fill="#123b5c" fill-opacity=".9" stroke="#78e2f2" stroke-width="2"/>
   <path d="M-20 -9L-8 -20L4 -9M-8 -20V12" fill="none" stroke="#b6f5ff" stroke-width="2.5" stroke-linecap="round"/>
   <path d="M13 12H29M13 20H29" stroke="#72dff2" stroke-width="2"/>
  </g>
 </g>
-<!-- puzzle module 2 -->
+
+<!-- Top-right: left socket + bottom tab -->
 <g filter="url(#shine)">
- <g transform="translate(0 0)">
-  <animateTransform attributeName="transform" type="translate" values="1090,115;1005,120;945,132;945,132" keyTimes="0;.3;.62;1" dur="12s" repeatCount="indefinite"/>
+ <g>
+  <animateTransform attributeName="transform" type="translate" values="1090,115;1005,120;939,132;939,132" keyTimes="0;.3;.62;1" dur="12s" repeatCount="indefinite"/>
   <animateTransform attributeName="transform" additive="sum" type="rotate" values="22 0 0;-9 0 0;0 0 0;0 0 0" keyTimes="0;.3;.62;1" dur="12s" repeatCount="indefinite"/>
-  <path d="M-42 -30H-15C-15 -48 13 -48 13 -30H42V42H15C15 60 -13 60 -13 42H-42Z" fill="#202b5c" fill-opacity=".88" stroke="#9c8aff" stroke-width="2"/>
+  <path d="M-42 -42H42V42H12C12 56 -12 56 -12 42H-42V12C-28 12 -28 -12 -42 -12Z" fill="#202b5c" fill-opacity=".9" stroke="#78e2f2" stroke-width="2"/>
   <ellipse cx="0" cy="-2" rx="15" ry="8" fill="none" stroke="#c6baff" stroke-width="2"/><path d="M-15 -2V17C-15 28 15 28 15 17V-2M-15 7C-15 18 15 18 15 7" fill="none" stroke="#c6baff" stroke-width="2"/>
  </g>
 </g>
-<!-- puzzle module 3 -->
+
+<!-- Bottom-left: top socket + right tab -->
 <g filter="url(#shine)">
- <g transform="translate(0 0)">
+ <g>
   <animateTransform attributeName="transform" type="translate" values="760,290;830,240;855,216;855,216" keyTimes="0;.3;.62;1" dur="12s" repeatCount="indefinite"/>
   <animateTransform attributeName="transform" additive="sum" type="rotate" values="15 0 0;-6 0 0;0 0 0;0 0 0" keyTimes="0;.3;.62;1" dur="12s" repeatCount="indefinite"/>
-  <path d="M-42 -42H-13C-13 -24 15 -24 15 -42H42V-13C60 -13 60 15 42 15V42H-42Z" fill="#123d56" fill-opacity=".9" stroke="#5bd6e9" stroke-width="2"/>
+  <path d="M-42 -42H-12C-12 -28 12 -28 12 -42H42V-12C56 -12 56 12 42 12V42H-42Z" fill="#123d56" fill-opacity=".92" stroke="#78e2f2" stroke-width="2"/>
   <path d="M-23 18L-7 2L4 12L23 -12" fill="none" stroke="#b8f7ff" stroke-width="2.5"/><circle cx="23" cy="-12" r="4" fill="#b8f7ff"/>
  </g>
 </g>
-<!-- puzzle module 4 -->
+
+<!-- Bottom-right: top socket + left socket -->
 <g filter="url(#shine)">
- <g transform="translate(0 0)">
-  <animateTransform attributeName="transform" type="translate" values="1090,290;1005,240;945,216;945,216" keyTimes="0;.3;.62;1" dur="12s" repeatCount="indefinite"/>
+ <g>
+  <animateTransform attributeName="transform" type="translate" values="1090,290;1005,240;939,216;939,216" keyTimes="0;.3;.62;1" dur="12s" repeatCount="indefinite"/>
   <animateTransform attributeName="transform" additive="sum" type="rotate" values="-20 0 0;7 0 0;0 0 0;0 0 0" keyTimes="0;.3;.62;1" dur="12s" repeatCount="indefinite"/>
-  <path d="M-42 -42H42V-15C60 -15 60 13 42 13V42H15C15 60 -13 60 -13 42H-42Z" fill="#292653" fill-opacity=".9" stroke="#a28cff" stroke-width="2"/>
+  <path d="M-42 -42H-12C-12 -28 12 -28 12 -42H42V42H-42V12C-28 12 -28 -12 -42 -12Z" fill="#292653" fill-opacity=".92" stroke="#78e2f2" stroke-width="2"/>
   <rect x="-23" y="-20" width="9" height="28" rx="2" fill="#b5a3ff"/><rect x="-7" y="-7" width="9" height="15" rx="2" fill="#8dcbff"/><rect x="9" y="-29" width="9" height="37" rx="2" fill="#b5a3ff"/>
  </g>
 </g>
-<!-- connected architecture appears as pieces settle -->
+
+<!-- Blueprint connections appear only after all four pieces have seated. -->
 <g opacity="0" fill="none" stroke="#83e8f5" stroke-width="2">
  <animate attributeName="opacity" values="0;0;1;1;1" keyTimes="0;.43;.64;.78;1" dur="12s" repeatCount="indefinite"/>
- <path d="M897 132V174M987 132V174M897 174H987M897 216V174M987 216V174"/>
- <path d="M897 174L942 174" stroke-width="3"/>
+ <path d="M855 132H897V174H939V216M939 132V174H897V216M897 132V174M855 216H897"/>
+ <path d="M855 132H897M939 132H897M855 216H897M939 216H897" stroke-opacity=".55"/>
 </g>
-<!-- subtle assembled system core -->
 <g opacity="0">
  <animate attributeName="opacity" values="0;0;0;1;1;0" keyTimes="0;.56;.64;.76;.94;1" dur="12s" repeatCount="indefinite"/>
- <path d="M900 92L942 72L984 92V174L942 198L900 174Z" fill="#123a59" fill-opacity=".42" stroke="url(#cyan)" stroke-width="2"/>
- <path d="M900 92L942 116L984 92M942 116V198" fill="none" stroke="#9beefa" stroke-opacity=".8"/>
- <circle cx="942" cy="116" r="7" fill="#c7faff"/>
- <path d="M942 198V220M900 174L874 190M984 174L1010 190" stroke="#8feaf7" stroke-width="2"/>
+ <circle cx="855" cy="132" r="5" fill="#c7faff"/><circle cx="939" cy="132" r="5" fill="#c7faff"/>
+ <circle cx="855" cy="216" r="5" fill="#c7faff"/><circle cx="939" cy="216" r="5" fill="#c7faff"/>
+ <circle cx="897" cy="174" r="7" fill="#c7faff"/>
+ <path d="M897 174V190M881 174H913" stroke="#9beefa" stroke-width="2"/>
 </g>
-<!-- closing caption only during final reveal -->
 <g font-family="Inter,Segoe UI,Arial,sans-serif" text-anchor="middle" fill="#d5faff" font-size="13" font-weight="600" letter-spacing="2.2" opacity="0">
  <text x="945" y="310">A SYSTEM TAKES SHAPE.<animate attributeName="opacity" values="0;0;0;1;1;0" keyTimes="0;.62;.72;.78;.94;1" dur="12s" repeatCount="indefinite"/></text>
 </g>
